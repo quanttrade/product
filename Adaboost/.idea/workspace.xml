@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be85b5e3-80dc-49a4-b5ee-4e2ff800a6b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hEOZNEXJHazkZCRQiDT53pLyWe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.gbdt_week">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Adaboost" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ada_month" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Adaboost" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ada_month.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ada_ori_month" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Adaboost" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ada_ori_month.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adaboost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Adaboost" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algs/adaboost.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gbdt_update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Adaboost" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gbdt_update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gbdt_week" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Adaboost" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gbdt_week.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gbdt_week" />
+        <item itemvalue="Python.gbdt_update" />
+        <item itemvalue="Python.ada_month" />
+        <item itemvalue="Python.ada_ori_month" />
+        <item itemvalue="Python.adaboost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be85b5e3-80dc-49a4-b5ee-4e2ff800a6b4" name="Default Changelist" comment="" />
+      <created>1599572839211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599572839211</updated>
+      <workItem from="1599572841812" duration="3783000" />
+      <workItem from="1599622496303" duration="11855000" />
+      <workItem from="1599642278650" duration="1000" />
+      <workItem from="1599656015272" duration="632000" />
+      <workItem from="1599663276277" duration="894000" />
+      <workItem from="1599697883073" duration="11728000" />
+      <workItem from="1599718816206" duration="2420000" />
+      <workItem from="1599909232392" duration="734000" />
+      <workItem from="1600232514032" duration="540000" />
+      <workItem from="1600318911855" duration="621000" />
+      <workItem from="1600334167005" duration="25199000" />
+      <workItem from="1600379452658" duration="234000" />
+      <workItem from="1600380789468" duration="6484000" />
+      <workItem from="1600421114074" duration="25274000" />
+      <workItem from="1600505909331" duration="17633000" />
+      <workItem from="1600578143096" duration="12800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1068" y="493" key="FileChooserDialogImpl" timestamp="1600435734709">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1068" y="493" key="FileChooserDialogImpl/-2560.-275.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1600435734709" />
+    <state width="2518" height="502" key="GridCell.Tab.0.bottom" timestamp="1600365806115">
+      <screen x="-2560" y="-275" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.0.bottom/-2560.-275.2560.1417/0.23.2560.1417@-2560.-275.2560.1417" timestamp="1600365806115" />
+    <state width="2518" height="502" key="GridCell.Tab.0.center" timestamp="1600365806115">
+      <screen x="-2560" y="-275" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.0.center/-2560.-275.2560.1417/0.23.2560.1417@-2560.-275.2560.1417" timestamp="1600365806115" />
+    <state width="2518" height="502" key="GridCell.Tab.0.left" timestamp="1600365806115">
+      <screen x="-2560" y="-275" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.0.left/-2560.-275.2560.1417/0.23.2560.1417@-2560.-275.2560.1417" timestamp="1600365806115" />
+    <state width="2518" height="502" key="GridCell.Tab.0.right" timestamp="1600365806115">
+      <screen x="-2560" y="-275" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.0.right/-2560.-275.2560.1417/0.23.2560.1417@-2560.-275.2560.1417" timestamp="1600365806115" />
+    <state width="2518" height="502" key="GridCell.Tab.1.bottom" timestamp="1600365806116">
+      <screen x="-2560" y="-275" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.1.bottom/-2560.-275.2560.1417/0.23.2560.1417@-2560.-275.2560.1417" timestamp="1600365806116" />
+    <state width="2518" height="502" key="GridCell.Tab.1.center" timestamp="1600365806116">
+      <screen x="-2560" y="-275" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.1.center/-2560.-275.2560.1417/0.23.2560.1417@-2560.-275.2560.1417" timestamp="1600365806116" />
+    <state width="2518" height="502" key="GridCell.Tab.1.left" timestamp="1600365806115">
+      <screen x="-2560" y="-275" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.1.left/-2560.-275.2560.1417/0.23.2560.1417@-2560.-275.2560.1417" timestamp="1600365806115" />
+    <state width="2518" height="502" key="GridCell.Tab.1.right" timestamp="1600365806116">
+      <screen x="-2560" y="-275" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="502" key="GridCell.Tab.1.right/-2560.-275.2560.1417/0.23.2560.1417@-2560.-275.2560.1417" timestamp="1600365806116" />
+    <state x="717" y="240" key="SettingsEditor" timestamp="1600436058496">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="717" y="240" key="SettingsEditor/-2560.-275.2560.1417/0.23.2560.1417@0.23.2560.1417" timestamp="1600436058496" />
+    <state x="469" y="190" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1599572902925" />
+    <state x="754" y="227" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600587962629">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="754" y="227" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1600587962629" />
+    <state x="623" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1600611329159">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600611329159" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Adaboost$adaboost.coverage" NAME="adaboost Coverage Results" MODIFIED="1600365800856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algs" />
+  </component>
+</project>
