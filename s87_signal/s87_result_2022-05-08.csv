@@ -1,0 +1,878 @@
+,date,side,NAME_CHINESE_SIMPLIFIED,shares,price,current,PREV_CLOSE_VAL,fx,notional,pnl_today,pnl_total,Quant,Pattern,country
+000060 CH Equity,2022-05-08,SELL,中金岭南,-827339,0,0,4.06,6.718,500000,0,0,Quant,Pattern 87,CN-500
+000513 CH Equity,2022-05-08,BUY,丽珠集团,100719,0,0,33.35,6.718,500000,0,0,Quant,Pattern 87,CN-500
+000581 CH Equity,2022-05-08,BUY,威孚高科,169817,0,0,19.78,6.718,500000,0,0,Quant,Pattern 87,CN-500
+000732 CH Equity,2022-05-08,BUY,泰禾集团,1876536,0,0,1.79,6.718,500000,0,0,Quant,Pattern 87,CN-500
+000750 CH Equity,2022-05-08,SELL,国海证券,-1030368,0,0,3.26,6.718,500000,0,0,Quant,Pattern 87,CN-500
+000980 CH Equity,2022-05-08,BUY,*ST众泰,1094136,0,0,3.07,6.718,500000,0,0,Quant,Pattern 87,CN-500
+002048 CH Equity,2022-05-08,BUY,宁波华翔,262217,0,0,12.81,6.718,500000,0,0,Quant,Pattern 87,CN-500
+002078 CH Equity,2022-05-08,BUY,太阳纸业,271763,0,0,12.36,6.718,500000,0,0,Quant,Pattern 87,CN-500
+002366 CH Equity,2022-05-08,BUY,*ST 海核,905390,0,0,3.71,6.718,500000,0,0,Quant,Pattern 87,CN-500
+002424 CH Equity,2022-05-08,SELL,贵州百灵,-491081,0,0,6.84,6.718,500000,0,0,Quant,Pattern 87,CN-500
+6472 JT Equity,2022-05-08,SELL,NTN 株式会社,-604444,0,0,216.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+6758 JT Equity,2022-05-08,SELL,索尼集团公司,-11751,0,0,11110.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+8015 JT Equity,2022-05-08,BUY,丰田通商,27927,0,0,4675.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+8031 JT Equity,2022-05-08,SELL,三井物产,-38558,0,0,3386.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+8058 JT Equity,2022-05-08,SELL,三菱商事,-29175,0,0,4475.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+8306 JT Equity,2022-05-08,BUY,三菱日联金融集团,167491,0,0,779.5,130.56,1000000,0,0,Quant,Pattern 87,JT
+8630 JT Equity,2022-05-08,BUY,损保控股株式会社,24569,0,0,5314.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+9433 JT Equity,2022-05-08,BUY,KDDI有限公司,30320,0,0,4306.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+9434 JT Equity,2022-05-08,BUY,SoftBank Corp,86722,0,0,1505.5,130.56,1000000,0,0,Quant,Pattern 87,JT
+9501 JT Equity,2022-05-08,BUY,东京电力控股株式会社,246339,0,0,530.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+BIIB US Equity,2022-05-08,BUY,百健,2582,0,0,193.61,1.0,500000,0,0,Quant,Pattern 87,SPX
+CMCSA US Equity,2022-05-08,SELL,康卡斯特,-12500,0,0,40.0,1.0,500000,0,0,Quant,Pattern 87,SPX
+DGX US Equity,2022-05-08,SELL,Quest Diagnostics股份有限公,-3668,0,0,136.3,1.0,500000,0,0,Quant,Pattern 87,SPX
+FANG US Equity,2022-05-08,BUY,Diamondback能源股份有限公司,3498,0,0,142.93,1.0,500000,0,0,Quant,Pattern 87,SPX
+GIS US Equity,2022-05-08,SELL,通用磨坊,-7002,0,0,71.4,1.0,500000,0,0,Quant,Pattern 87,SPX
+GM US Equity,2022-05-08,SELL,通用汽车公司,-12632,0,0,39.58,1.0,500000,0,0,Quant,Pattern 87,SPX
+INTC US Equity,2022-05-08,BUY,英特尔,22573,0,0,44.3,1.0,500000,0,0,Quant,Pattern 87,SPX
+IRM US Equity,2022-05-08,SELL,美国铁山公司,-9218,0,0,54.24,1.0,500000,0,0,Quant,Pattern 87,SPX
+PPL US Equity,2022-05-08,SELL,PPL公司,-17105,0,0,29.23,1.0,500000,0,0,Quant,Pattern 87,SPX
+SEE US Equity,2022-05-08,SELL,希悦尔公司,-7621,0,0,65.6,1.0,500000,0,0,Quant,Pattern 87,SPX
+600584 CH Equity,2022-05-08,SELL,长电科技,-146873,0,0,22.87,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600729 CH Equity,2022-05-08,SELL,重庆百货,-117242,0,0,28.65,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600755 CH Equity,2022-05-08,SELL,厦门国贸,-464591,0,0,7.23,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600901 CH Equity,2022-05-08,BUY,江苏租赁,657338,0,0,5.11,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600939 CH Equity,2022-05-08,BUY,重庆建工,722365,0,0,4.65,6.718,500000,0,0,Quant,Pattern 87,CN-500
+601001 CH Equity,2022-05-08,BUY,晋控煤业,274204,0,0,12.25,6.718,500000,0,0,Quant,Pattern 87,CN-500
+601678 CH Equity,2022-05-08,SELL,滨化股份,-632580,0,0,5.31,6.718,500000,0,0,Quant,Pattern 87,CN-500
+601699 CH Equity,2022-05-08,SELL,潞安环能,-232940,0,0,14.42,6.718,500000,0,0,Quant,Pattern 87,CN-500
+603486 CH Equity,2022-05-08,BUY,科沃斯,34451,0,0,97.5,6.718,500000,0,0,Quant,Pattern 87,CN-500
+BDX US Equity,2022-05-08,SELL,碧迪,-1938,0,0,257.97,1.0,500000,0,0,Quant,Pattern 87,SPX
+088800 KS Equity,2022-05-08,SELL,Ace Technologies Corp,-116816,0,0,10900.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+095700 KS Equity,2022-05-08,BUY,Genexine股份有限公司,34274,0,0,37150.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+108230 KS Equity,2022-05-08,BUY,Toptec Co Ltd,154714,0,0,8230.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+108320 KS Equity,2022-05-08,SELL,LX半导体株式会社,-10194,0,0,124900.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+131970 KS Equity,2022-05-08,SELL,Tesna Inc,-27680,0,0,46000.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+263750 KS Equity,2022-05-08,BUY,Pearl Abyss Corp,20438,0,0,62300.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+290510 KS Equity,2022-05-08,BUY,Koreacenter Co Ltd,191186,0,0,6660.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+293780 KS Equity,2022-05-08,SELL,AptaBio Therapeutics Inc,-72552,0,0,17550.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+319660 KS Equity,2022-05-08,BUY,PSK Inc,26806,0,0,47500.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+000021 CH Equity,2022-05-08,SELL,深科技,-335229,0,0,10.02,6.718,500000,0,0,Quant,Pattern 87,CN-500
+4041 JT Equity,2022-05-08,BUY,日本曹达,18598,0,0,3510.0,130.56,500000,0,0,Quant,Pattern 87,topix
+4343 JT Equity,2022-05-08,BUY,永旺幻想有限公司,29767,0,0,2193.0,130.56,500000,0,0,Quant,Pattern 87,topix
+4344 JT Equity,2022-05-08,BUY,Sourcenext公司,368813,0,0,177.0,130.56,500000,0,0,Quant,Pattern 87,topix
+4420 JT Equity,2022-05-08,BUY,eSOL Co Ltd,99664,0,0,655.0,130.56,500000,0,0,Quant,Pattern 87,topix
+4550 JT Equity,2022-05-08,BUY,日水制药株式会社,65542,0,0,996.0,130.56,500000,0,0,Quant,Pattern 87,topix
+4719 JT Equity,2022-05-08,BUY,Alpha系统股份有限公司,16381,0,0,3985.0,130.56,500000,0,0,Quant,Pattern 87,topix
+6552 JT Equity,2022-05-08,BUY,GameWith Inc,130039,0,0,502.0,130.56,500000,0,0,Quant,Pattern 87,topix
+6841 JT Equity,2022-05-08,SELL,横河电机,-30923,0,0,2111.0,130.56,500000,0,0,Quant,Pattern 87,topix
+7202 JT Equity,2022-05-08,SELL,五十铃汽车,-41846,0,0,1560.0,130.56,500000,0,0,Quant,Pattern 87,topix
+7463 JT Equity,2022-05-08,BUY,Advan集团有限公司,80992,0,0,806.0,130.56,500000,0,0,Quant,Pattern 87,topix
+SO US Equity,2022-05-08,SELL,南方公司,-6696,0,0,74.67,1.0,500000,0,0,Quant,Pattern 87,SPX
+TGT US Equity,2022-05-08,SELL,塔吉特公司,-2220,0,0,225.21,1.0,500000,0,0,Quant,Pattern 87,SPX
+27 HK Equity,2022-05-08,SELL,银河娱乐,-182125,0,0,43.1,7.8496,1000000,0,0,Quant,Pattern 87,HIS
+762 HK Equity,2022-05-08,SELL,中国联通,-2104450,0,0,3.73,7.8496,1000000,0,0,Quant,Pattern 87,HIS
+823 HK Equity,2022-05-08,BUY,领展房产基金,117158,0,0,67.0,7.8496,1000000,0,0,Quant,Pattern 87,HIS
+1093 HK Equity,2022-05-08,SELL,石药集团,-1018106,0,0,7.71,7.8496,1000000,0,0,Quant,Pattern 87,HIS
+1109 HK Equity,2022-05-08,SELL,华润置地,-229520,0,0,34.2,7.8496,1000000,0,0,Quant,Pattern 87,HIS
+1810 HK Equity,2022-05-08,SELL,小米集团,-707171,0,0,11.1,7.8496,1000000,0,0,Quant,Pattern 87,HIS
+2269 HK Equity,2022-05-08,SELL,药明生物,-155746,0,0,50.4,7.8496,1000000,0,0,Quant,Pattern 87,HIS
+2388 HK Equity,2022-05-08,SELL,中银香港,-264296,0,0,29.7,7.8496,1000000,0,0,Quant,Pattern 87,HIS
+APE AU Equity,2022-05-08,SELL,Eagers汽车有限公司,-116337,0,0,12.15,1.4135,1000000,0,0,Quant,Pattern 87,AU
+AZJ AU Equity,2022-05-08,SELL,Aurizon控股有限公司,-350744,0,0,4.03,1.4135,1000000,0,0,Quant,Pattern 87,AU
+BRG AU Equity,2022-05-08,BUY,Breville 集团有限公司,62655,0,0,22.56,1.4135,1000000,0,0,Quant,Pattern 87,AU
+COL AU Equity,2022-05-08,BUY,Coles Group Ltd,75709,0,0,18.67,1.4135,1000000,0,0,Quant,Pattern 87,AU
+CSL AU Equity,2022-05-08,SELL,CSL有限公司,-5271,0,0,268.16,1.4135,1000000,0,0,Quant,Pattern 87,AU
+ORI AU Equity,2022-05-08,BUY,澳瑞凯有限公司,88843,0,0,15.91,1.4135,1000000,0,0,Quant,Pattern 87,AU
+PDL AU Equity,2022-05-08,BUY,Pendal集团有限公司,284406,0,0,4.97,1.4135,1000000,0,0,Quant,Pattern 87,AU
+REH AU Equity,2022-05-08,BUY,Reece有限公司,84036,0,0,16.82,1.4135,1000000,0,0,Quant,Pattern 87,AU
+RMD AU Equity,2022-05-08,BUY,瑞思迈股份有限公司,49079,0,0,28.8,1.4135,1000000,0,0,Quant,Pattern 87,AU
+SBM AU Equity,2022-05-08,BUY,St Barbara 有限公司,1112992,0,0,1.27,1.4135,1000000,0,0,Quant,Pattern 87,AU
+1963 HK Equity,2022-05-08,SELL,重庆银行,-1829743,0,0,4.29,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+2282 HK Equity,2022-05-08,SELL,美高梅中国,-1817037,0,0,4.32,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+2382 HK Equity,2022-05-08,BUY,舜宇光学科技,78417,0,0,100.1,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+2628 HK Equity,2022-05-08,SELL,中国人寿,-695886,0,0,11.28,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+2669 HK Equity,2022-05-08,SELL,中海物业,-884960,0,0,8.87,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+270 HK Equity,2022-05-08,SELL,粤海投资,-800979,0,0,9.8,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+3369 HK Equity,2022-05-08,SELL,秦港股份,-6766896,0,0,1.16,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+3808 HK Equity,2022-05-08,BUY,中国重汽,911684,0,0,8.61,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+6099 HK Equity,2022-05-08,BUY,招商证券,982428,0,0,7.99,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+719 HK Equity,2022-05-08,BUY,新华制药,1038306,0,0,7.5600000000000005,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+002507 CH Equity,2022-05-08,SELL,涪陵榨菜,-90906,0,0,36.95,6.718,500000,0,0,Quant,Pattern 87,CN-500
+300072 CH Equity,2022-05-08,BUY,三聚环保,805515,0,0,4.17,6.718,500000,0,0,Quant,Pattern 87,CN-500
+300244 CH Equity,2022-05-08,SELL,迪安诊断,-90514,0,0,37.11,6.718,500000,0,0,Quant,Pattern 87,CN-500
+300418 CH Equity,2022-05-08,SELL,昆仑万维,-235884,0,0,14.24,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600053 CH Equity,2022-05-08,BUY,九鼎投资,232940,0,0,14.42,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600058 CH Equity,2022-05-08,BUY,五矿发展,458879,0,0,7.32,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600260 CH Equity,2022-05-08,BUY,*ST 凯乐,1705076,0,0,1.97,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600507 CH Equity,2022-05-08,SELL,方大特钢,-407645,0,0,8.24,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600549 CH Equity,2022-05-08,BUY,厦门钨业,215458,0,0,15.59,6.718,500000,0,0,Quant,Pattern 87,CN-500
+600582 CH Equity,2022-05-08,SELL,天地科技,-711652,0,0,4.72,6.718,500000,0,0,Quant,Pattern 87,CN-500
+BOCT US Equity,2022-05-08,BUY,Innovator U.S. Equity Buffer,15638,0,0,31.9727,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BOTZ US Equity,2022-05-08,SELL,Global X Robotics & Artifici,-21533,0,0,23.22,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BSCO US Equity,2022-05-08,BUY,Invesco BulletShares 2024 Co,23969,0,0,20.86,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BSCR US Equity,2022-05-08,BUY,Invesco BulletShares 2027 Co,25641,0,0,19.5,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BTEC US Equity,2022-05-08,BUY,Principal Healthcare Innovat,16092,0,0,31.07,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BYLD US Equity,2022-05-08,SELL,iShares Yield Optimized Bond,-22371,0,0,22.35,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CACG US Equity,2022-05-08,BUY,ClearBridge All Cap Growth E,12960,0,0,38.58,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CALF US Equity,2022-05-08,SELL,Pacer US Small Cap Cash Cows,-12966,0,0,38.56,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CAPD US Equity,2022-05-08,SELL,iPath席勒CAPE ETN,-24548,0,0,20.368,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CARZ US Equity,2022-05-08,BUY,First Trust S网络未来汽车和,9934,0,0,50.33,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CMBS US Equity,2022-05-08,BUY,安硕CMBS ETF,10343,0,0,48.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CMF US Equity,2022-05-08,SELL,安硕加利福尼亚地方债ETF,-8952,0,0,55.85,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CNYA US Equity,2022-05-08,BUY,iShares MSCI China A ETF,15479,0,0,32.3,1.0,500000,0,0,Quant,Pattern 87,us_adr
+COMB US Equity,2022-05-08,SELL,GraniteShares Bloomberg Comm,-14814,0,0,33.75,1.0,500000,0,0,Quant,Pattern 87,us_adr
+COPX US Equity,2022-05-08,BUY,Global X铜矿ETF,13164,0,0,37.98,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CORN US Equity,2022-05-08,SELL,Teucrium玉米基金,-17283,0,0,28.93,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CORP US Equity,2022-05-08,SELL,PIMCO投资级企业债券指数ETF,-5149,0,0,97.09,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CPER US Equity,2022-05-08,BUY,美国铜指数基金,19417,0,0,25.75,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CRBN US Equity,2022-05-08,BUY,iShares MSCI ACWI Low Carbon,3377,0,0,148.0171,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CSB US Equity,2022-05-08,BUY,VictoryShares US Small Cap H,9119,0,0,54.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ADSEZ IS Equity,2022-05-08,BUY,阿达尼港口和经济特区有限公司,94811,0,0,811.4,76.93,1000000,0,0,Quant,Pattern 87,IN
+CIPLA IS Equity,2022-05-08,BUY,Cipla有限公司/印度,82300,0,0,934.75,76.93,1000000,0,0,Quant,Pattern 87,IN
+1333 JT Equity,2022-05-08,SELL,丸羽日朗株式会社,-54490,0,0,2396.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+1808 JT Equity,2022-05-08,SELL,长谷工株式会社,-92464,0,0,1412.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+2282 JT Equity,2022-05-08,SELL,日本火腿,-31805,0,0,4105.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+4021 JT Equity,2022-05-08,SELL,日产化学,-18545,0,0,7040.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+4151 JT Equity,2022-05-08,BUY,协和麒麟株式会社,47321,0,0,2759.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+5202 JT Equity,2022-05-08,BUY,日本板硝子株式会社,325586,0,0,401.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+5301 JT Equity,2022-05-08,BUY,东海碳素,118153,0,0,1105.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+5803 JT Equity,2022-05-08,SELL,藤仓株式会社,-207898,0,0,628.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+BGRN US Equity,2022-05-08,SELL,iShares USD Green Bond ETF,-10451,0,0,47.84,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BIB US Equity,2022-05-08,BUY,ProShares Ultra纳斯达克生物,10962,0,0,45.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BIV US Equity,2022-05-08,SELL,领航中期债券ETF,-6444,0,0,77.59,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BJK US Equity,2022-05-08,SELL,范达博彩ETF,-14096,0,0,35.47,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BJUL US Equity,2022-05-08,SELL,Innovator U.S. Equity Buffer,-16149,0,0,30.96,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BLCN US Equity,2022-05-08,BUY,Siren Nasdaq NexGen Economy,16077,0,0,31.1,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BLES US Equity,2022-05-08,SELL,Inspire Global Hope ESG ETF,-15321,0,0,32.6345,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BLOK US Equity,2022-05-08,SELL,Amplify Transformational Dat,-19319,0,0,25.88,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BLV US Equity,2022-05-08,SELL,领航长期债券ETF,-6273,0,0,79.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BND US Equity,2022-05-08,BUY,领航总体债券市场ETF,6644,0,0,75.25,1.0,500000,0,0,Quant,Pattern 87,us_adr
+780 HK Equity,2022-05-08,BUY,同程旅行,586666,0,0,13.38,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+873 HK Equity,2022-05-08,SELL,世茂服务,-3737904,0,0,4.2,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+881 HK Equity,2022-05-08,SELL,中升控股,-157780,0,0,49.75,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+960 HK Equity,2022-05-08,BUY,龙湖集团,209882,0,0,37.4,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+2215 JT Equity,2022-05-08,BUY,First Baking有限公司,125057,0,0,522.0,130.56,500000,0,0,Quant,Pattern 87,topix
+2352 JT Equity,2022-05-08,BUY,Wow World Inc,60000,0,0,1088.0,130.56,500000,0,0,Quant,Pattern 87,topix
+3110 JT Equity,2022-05-08,SELL,日东纺,-25904,0,0,2520.0,130.56,500000,0,0,Quant,Pattern 87,topix
+3246 JT Equity,2022-05-08,BUY,Kose房地产有限公司,103127,0,0,633.0,130.56,500000,0,0,Quant,Pattern 87,topix
+3486 JT Equity,2022-05-08,SELL,Global Link Management KK,-70496,0,0,926.0,130.56,500000,0,0,Quant,Pattern 87,topix
+3577 JT Equity,2022-05-08,BUY,Tokai Senko KK,57464,0,0,1136.0,130.56,500000,0,0,Quant,Pattern 87,topix
+DOG US Equity,2022-05-08,SELL,Proshares做空道指30,-14594,0,0,34.26,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DON US Equity,2022-05-08,SELL,智慧树美国中盘股股利基金,-11745,0,0,42.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DRIP US Equity,2022-05-08,SELL,Direxion每日标普油气出口与生,-24330,0,0,20.55,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DRSK US Equity,2022-05-08,BUY,Aptus Defined Risk ETF,18594,0,0,26.89,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DSI US Equity,2022-05-08,SELL,安硕MSCI KLD 400社会ETF,-6396,0,0,78.17,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DSTL US Equity,2022-05-08,SELL,Distillate US Fundamental St,-11837,0,0,42.24,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DTD US Equity,2022-05-08,BUY,智慧树美国总股利基金,8026,0,0,62.29,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DVOL US Equity,2022-05-08,SELL,First Trust Dorsey Wright Mo,-18761,0,0,26.65,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DVY US Equity,2022-05-08,SELL,iShares安硕精选红利ETF,-3951,0,0,126.53,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DWAS US Equity,2022-05-08,SELL,景顺 DWA小盘股动量ETF,-6319,0,0,79.12,1.0,500000,0,0,Quant,Pattern 87,us_adr
+005290 KS Equity,2022-05-08,SELL,东进世美肯有限公司,-30793,0,0,41350.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+033290 KS Equity,2022-05-08,SELL,COWELL FASHION Co Ltd,-173002,0,0,7360.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+033640 KS Equity,2022-05-08,SELL,NEPES Corp,-43457,0,0,29300.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+034230 KS Equity,2022-05-08,BUY,Paradise有限公司,81101,0,0,15700.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+036930 KS Equity,2022-05-08,SELL,周星工程,-57485,0,0,22150.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+038500 KS Equity,2022-05-08,BUY,SAMPYO Cement Co Ltd,246286,0,0,5170.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+053800 KS Equity,2022-05-08,BUY,安博士股份有限公司,10845,0,0,117400.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+060150 KS Equity,2022-05-08,SELL,Insun ENT Co Ltd,-116816,0,0,10900.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+078130 KS Equity,2022-05-08,BUY,Kuk-il Paper Manufacturing C,417475,0,0,3050.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+086450 KS Equity,2022-05-08,BUY,DongKook制药有限公司,59779,0,0,21300.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+DGRE US Equity,2022-05-08,SELL,WisdomTree新兴市场优质股利增,-21404,0,0,23.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DGRO US Equity,2022-05-08,SELL,安硕核心股利增长ETF,-9840,0,0,50.81,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DGRW US Equity,2022-05-08,BUY,智慧树美国优质红利成长基金,8185,0,0,61.08,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DGS US Equity,2022-05-08,SELL,WisdomTree新兴市场小盘股利基,-10119,0,0,49.41,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DIG US Equity,2022-05-08,SELL,ProShares超级石油与天然气,-3094,0,0,161.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DINT US Equity,2022-05-08,SELL,Davis Select International E,-31766,0,0,15.74,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DIVO US Equity,2022-05-08,SELL,Amplify CWP Enhanced Dividen,-13923,0,0,35.91,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DLS US Equity,2022-05-08,SELL,智慧树国际小型股股利基金,-7881,0,0,63.44,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DMRM US Equity,2022-05-08,BUY,Deltashares S&P 400 Managed,9054,0,0,55.2224,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DNL US Equity,2022-05-08,BUY,WisdomTree Global ex-US Qual,14388,0,0,34.75,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DDIV US Equity,2022-05-08,BUY,First Trust Dorsey Wright Mo,15253,0,0,32.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DDLS US Equity,2022-05-08,BUY,Wisdomtree Dynamic Currency,15597,0,0,32.0564,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DDM US Equity,2022-05-08,BUY,Proshares Ultra道指30,7691,0,0,65.01,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DEM US Equity,2022-05-08,BUY,WisdomTree新兴市场高股利基金,12525,0,0,39.92,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DES US Equity,2022-05-08,BUY,智慧树美国小盘股利基金,16750,0,0,29.85,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DEW US Equity,2022-05-08,BUY,WisdomTree Global High Divid,10186,0,0,49.0858,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DFE US Equity,2022-05-08,BUY,WisdomTree欧洲小盘股股利基金,8168,0,0,61.21,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DFJ US Equity,2022-05-08,BUY,智慧树日本小盘股股利基金,8052,0,0,62.09,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DFNL US Equity,2022-05-08,SELL,Davis Select Financial ETF,-17678,0,0,28.2837,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DGP US Equity,2022-05-08,BUY,德银黄金双倍做多ETN,12177,0,0,41.0603,1.0,500000,0,0,Quant,Pattern 87,us_adr
+007310 KS Equity,2022-05-08,BUY,不倒翁公司,2795,0,0,455500.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+013890 KS Equity,2022-05-08,SELL,Zinus Inc,-19061,0,0,66800.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+016360 KS Equity,2022-05-08,BUY,三星证券有限公司,32565,0,0,39100.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+017670 KS Equity,2022-05-08,BUY,SK电讯株式会社,22029,0,0,57800.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+020150 KS Equity,2022-05-08,SELL,日进材料有限公司,-14602,0,0,87200.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+030200 KS Equity,2022-05-08,BUY,KT株式会社,35817,0,0,35550.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+031430 KS Equity,2022-05-08,SELL,新世界国际株式会社,-40942,0,0,31100.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+064960 KS Equity,2022-05-08,SELL,SNT Motiv有限公司,-27353,0,0,46550.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+120110 KS Equity,2022-05-08,SELL,科隆工业股份有限公司,-18453,0,0,69000.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+003380 KS Equity,2022-05-08,BUY,Harim Holdings Co Ltd,120122,0,0,10600.0,1273.3,1000000,0,0,Quant,Pattern 87,KS150
+SEK AU Equity,2022-05-08,SELL,Seek 有限公司,-55847,0,0,25.31,1.4135,1000000,0,0,Quant,Pattern 87,AU
+SPK AU Equity,2022-05-08,BUY,Spark新西兰有限公司,319074,0,0,4.43,1.4135,1000000,0,0,Quant,Pattern 87,AU
+STO AU Equity,2022-05-08,BUY,桑托斯有限公司,175590,0,0,8.05,1.4135,1000000,0,0,Quant,Pattern 87,AU
+000627 CH Equity,2022-05-08,BUY,天茂集团,1178596,0,0,2.85,6.718,500000,0,0,Quant,Pattern 87,CN-300
+002032 CH Equity,2022-05-08,BUY,苏泊尔,132010,0,0,50.89,6.718,500000,0,0,Quant,Pattern 87,CN-300
+002120 CH Equity,2022-05-08,SELL,韵达股份,-220841,0,0,15.21,6.718,500000,0,0,Quant,Pattern 87,CN-300
+600887 CH Equity,2022-05-08,BUY,伊利股份,88933,0,0,37.77,6.718,500000,0,0,Quant,Pattern 87,CN-300
+600900 CH Equity,2022-05-08,BUY,长江电力,147843,0,0,22.72,6.718,500000,0,0,Quant,Pattern 87,CN-300
+601668 CH Equity,2022-05-08,BUY,中国建筑,562646,0,0,5.97,6.718,500000,0,0,Quant,Pattern 87,CN-300
+601818 CH Equity,2022-05-08,SELL,光大银行,-1080064,0,0,3.11,6.718,500000,0,0,Quant,Pattern 87,CN-300
+601988 CH Equity,2022-05-08,BUY,中国银行,1052978,0,0,3.19,6.718,500000,0,0,Quant,Pattern 87,CN-300
+603156 CH Equity,2022-05-08,SELL,养元饮品,-151238,0,0,22.21,6.718,500000,0,0,Quant,Pattern 87,CN-300
+603160 CH Equity,2022-05-08,BUY,汇顶科技,59137,0,0,56.8,6.718,500000,0,0,Quant,Pattern 87,CN-300
+603993 CH Equity,2022-05-08,SELL,洛阳钼业,-738241,0,0,4.55,6.718,500000,0,0,Quant,Pattern 87,CN-300
+000100 KS Equity,2022-05-08,BUY,裕元兴业股份有限公司,21728,0,0,58600.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+000990 KS Equity,2022-05-08,BUY,DB HiTek股份有限公司,19234,0,0,66200.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+001060 KS Equity,2022-05-08,BUY,JW制药公司,45884,0,0,27750.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+001230 KS Equity,2022-05-08,BUY,韩国东国制钢公司,67192,0,0,18950.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+003410 KS Equity,2022-05-08,BUY,双龙洋灰工业株式会社,156425,0,0,8140.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+006120 KS Equity,2022-05-08,SELL,SK化工有限公司,-31056,0,0,41000.0,1273.3,1000000,0,0,Quant,Pattern 87,KR
+600030 CH Equity,2022-05-08,BUY,中信证券,357340,0,0,18.8,6.718,1000000,0,0,Quant,Pattern 87,CN
+601328 CH Equity,2022-05-08,SELL,交通银行,-1376639,0,0,4.88,6.718,1000000,0,0,Quant,Pattern 87,CN
+700 HK Equity,2022-05-08,BUY,腾讯控股,22478,0,0,349.2,7.8496,1000000,0,0,Quant,Pattern 87,HK
+3690 HK Equity,2022-05-08,BUY,美团－Ｗ,49997,0,0,157.0,7.8496,1000000,0,0,Quant,Pattern 87,HK
+1590 TT Equity,2022-05-08,BUY,亚德客-KY,36356,0,0,816.0,29.667,1000000,0,0,Quant,Pattern 87,TW
+2002 TT Equity,2022-05-08,BUY,中钢,828687,0,0,35.8,29.667,1000000,0,0,Quant,Pattern 87,TW
+2301 TT Equity,2022-05-08,SELL,光宝科技,-457824,0,0,64.8,29.667,1000000,0,0,Quant,Pattern 87,TW
+2408 TT Equity,2022-05-08,SELL,南亚科技,-444116,0,0,66.8,29.667,1000000,0,0,Quant,Pattern 87,TW
+2881 TT Equity,2022-05-08,BUY,富邦金融控股股份有限公司,416086,0,0,71.3,29.667,1000000,0,0,Quant,Pattern 87,TW
+3105 TT Equity,2022-05-08,SELL,稳懋半导体,-149455,0,0,198.5,29.667,1000000,0,0,Quant,Pattern 87,TW
+9983 JT Equity,2022-05-08,BUY,FAST RETAIL-DRS,2129,0,0,61320.0,130.56,1000000,0,0,Quant,Pattern 87,JT
+ALGN US Equity,2022-05-08,BUY,Align科技股份有限公司,1783,0,0,280.41,1.0,500000,0,0,Quant,Pattern 87,NDX
+DXCM US Equity,2022-05-08,SELL,Dexcom股份有限公司,-1420,0,0,351.89,1.0,500000,0,0,Quant,Pattern 87,NDX
+FOX US Equity,2022-05-08,SELL,福克斯公司,-15595,0,0,32.06,1.0,500000,0,0,Quant,Pattern 87,NDX
+ILMN US Equity,2022-05-08,BUY,Illumina公司,2007,0,0,249.05,1.0,500000,0,0,Quant,Pattern 87,NDX
+KHC US Equity,2022-05-08,BUY,卡夫亨氏公司,11470,0,0,43.59,1.0,500000,0,0,Quant,Pattern 87,NDX
+MRVL US Equity,2022-05-08,SELL,Marvell Technology Inc,-8658,0,0,57.75,1.0,500000,0,0,Quant,Pattern 87,NDX
+NXPI US Equity,2022-05-08,SELL,恩智浦半导体公司,-2815,0,0,177.58,1.0,500000,0,0,Quant,Pattern 87,NDX
+WBA US Equity,2022-05-08,SELL,沃博联公司,-11366,0,0,43.99,1.0,500000,0,0,Quant,Pattern 87,NDX
+ABP AU Equity,2022-05-08,SELL,Abacus地产集团,-455967,0,0,3.1,1.4135,1000000,0,0,Quant,Pattern 87,AU
+1065 HK Equity,2022-05-08,SELL,创业环保,-2540323,0,0,3.09,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+1066 HK Equity,2022-05-08,SELL,威高股份,-1001224,0,0,7.84,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+11 HK Equity,2022-05-08,BUY,恒生银行,56028,0,0,140.1,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+1193 HK Equity,2022-05-08,SELL,华润燃气,-272083,0,0,28.85,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+1233 HK Equity,2022-05-08,BUY,时代中国控股,3127330,0,0,2.51,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+1635 HK Equity,2022-05-08,BUY,大众公用,5198410,0,0,1.51,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+1766 HK Equity,2022-05-08,BUY,中国中车,2725555,0,0,2.88,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+1816 HK Equity,2022-05-08,SELL,中国广核,-3792077,0,0,2.07,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+1882 HK Equity,2022-05-08,BUY,海天国际,394056,0,0,19.92,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+19 HK Equity,2022-05-08,SELL,太古股份公司,-175410,0,0,44.75,7.8496,1000000,0,0,Quant,Pattern 87,HK-Conn
+EEM US Equity,2022-05-08,SELL,iShares安硕MSCI新兴市场ETF,-12215,0,0,40.93,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EEMA US Equity,2022-05-08,BUY,iShares安硕MSCI新兴市场亚洲E,7399,0,0,67.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EES US Equity,2022-05-08,BUY,WisdomTree美国小盘基金,11299,0,0,44.25,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EFA US Equity,2022-05-08,SELL,iShares安硕MSCI EAFE ETF,-7432,0,0,67.27,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EFAV US Equity,2022-05-08,BUY,iShares安硕MSCI EAFE最小波动,7469,0,0,66.94,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EIS US Equity,2022-05-08,SELL,iShares安硕MSCI以色列ETF,-7695,0,0,64.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EMB US Equity,2022-05-08,SELL,iShares安硕摩根大通美元新兴,-5595,0,0,89.35,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EMGF US Equity,2022-05-08,SELL,iShares MSCI Emerging Market,-11049,0,0,45.25,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EMHY US Equity,2022-05-08,SELL,iShares安硕摩根大通新兴市场,-13437,0,0,37.21,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EMLP US Equity,2022-05-08,SELL,第一信托北美能源基础设施基金,-18261,0,0,27.38,1.0,500000,0,0,Quant,Pattern 87,us_adr
+7524 JT Equity,2022-05-08,SELL,Marche Corp,-139785,0,0,467.0,130.56,500000,0,0,Quant,Pattern 87,topix
+8362 JT Equity,2022-05-08,BUY,福井银行,46728,0,0,1397.0,130.56,500000,0,0,Quant,Pattern 87,topix
+8473 JT Equity,2022-05-08,SELL,SBI控股株式会社,-22533,0,0,2897.0,130.56,500000,0,0,Quant,Pattern 87,topix
+8769 JT Equity,2022-05-08,BUY,日本利益风险管理有限公司,128757,0,0,507.0,130.56,500000,0,0,Quant,Pattern 87,topix
+9081 JT Equity,2022-05-08,SELL,神奈川中央交通株式会社,-19342,0,0,3375.0,130.56,500000,0,0,Quant,Pattern 87,topix
+9375 JT Equity,2022-05-08,BUY,株式会社近铁快递,20889,0,0,3125.0,130.56,500000,0,0,Quant,Pattern 87,topix
+AAAU US Equity,2022-05-08,BUY,Goldman Sachs Physical Gold,26766,0,0,18.68,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AAXJ US Equity,2022-05-08,BUY,iShares安硕MSCI亚洲(日本除外,7287,0,0,68.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ACES US Equity,2022-05-08,BUY,ALPS Clean Energy ETF,9752,0,0,51.27,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ADME US Equity,2022-05-08,BUY,Aptus Drawdown Managed Equit,13269,0,0,37.68,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CATH US Equity,2022-05-08,BUY,Global X S&P 500 Catholic Va,9906,0,0,50.47,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CBON US Equity,2022-05-08,SELL,VanEck China Bond ETF,-21523,0,0,23.23,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CDL US Equity,2022-05-08,BUY,VictoryShares US Large Cap H,8051,0,0,62.1,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CEMB US Equity,2022-05-08,BUY,iShares安硕新兴市场公司债券E,11253,0,0,44.43,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CFO US Equity,2022-05-08,SELL,VictoryShares US 500 Enhance,-7209,0,0,69.35,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CHAU US Equity,2022-05-08,SELL,Direxion中国沪深300指数A股看,-22954,0,0,21.7823,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CHGX US Equity,2022-05-08,SELL,Axs Change Finance ESG ETF,-17630,0,0,28.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CHIQ US Equity,2022-05-08,BUY,Global X MSCI中国非必需消费,27870,0,0,17.94,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CLRG US Equity,2022-05-08,SELL,IQ Chaikin US Large Cap ETF,-15606,0,0,32.0378,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CLTL US Equity,2022-05-08,SELL,Invesco Treasury Collateral,-4735,0,0,105.58,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AFK US Equity,2022-05-08,BUY,范达非洲指数ETF,26539,0,0,18.84,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AGG US Equity,2022-05-08,SELL,iShares安硕核心美国综合债券E,-4922,0,0,101.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AGGY US Equity,2022-05-08,BUY,WisdomTree Yield Enhanced US,11135,0,0,44.9,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AIA US Equity,2022-05-08,BUY,iShares安硕亚洲50 ETF,8099,0,0,61.73,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AIEQ US Equity,2022-05-08,BUY,AI Powered Equity ETF,14788,0,0,33.81,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AIQ US Equity,2022-05-08,BUY,Global X Artificial Intellig,22094,0,0,22.63,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AMJ US Equity,2022-05-08,BUY,摩根大通Alerian MLP指数ETN,22904,0,0,21.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ANGL US Equity,2022-05-08,BUY,范达堕落天使高收益债券ETF,17680,0,0,28.28,1.0,500000,0,0,Quant,Pattern 87,us_adr
+AOA US Equity,2022-05-08,SELL,iShares安硕核心激进配置型ETF,-7898,0,0,63.3,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ARKW US Equity,2022-05-08,BUY,ARK下一代互联网ETF,8200,0,0,60.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CURE US Equity,2022-05-08,BUY,Direxion每日医疗保健3倍做多,4586,0,0,109.01,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CUT US Equity,2022-05-08,BUY,Invesco MSCI Global Timber E,14185,0,0,35.2471,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CVY US Equity,2022-05-08,SELL,Invesco Zacks Multi-Asset In,-21805,0,0,22.9295,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CXSE US Equity,2022-05-08,BUY,WisdomTree Trust WisdomTree,14228,0,0,35.14,1.0,500000,0,0,Quant,Pattern 87,us_adr
+CZA US Equity,2022-05-08,BUY,Invesco Zacks Mid-Cap ETF,5613,0,0,89.0673,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DALT US Equity,2022-05-08,BUY,Two Roads Shared Trust - Anf,52192,0,0,9.58,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DBAW US Equity,2022-05-08,BUY,Xtrackers MSCI All World ex,16286,0,0,30.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DBB US Equity,2022-05-08,BUY,景顺德银基本金属基金,22104,0,0,22.62,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DBEM US Equity,2022-05-08,SELL,X-trackers MSCI新兴市场套期,-21997,0,0,22.73,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DBJP US Equity,2022-05-08,BUY,X-trackers MSCI 日本套期股票,10285,0,0,48.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BAB US Equity,2022-05-08,BUY,景顺应税市政债券,18063,0,0,27.68,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BAR US Equity,2022-05-08,SELL,Graniteshares Gold Trust,-26824,0,0,18.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BBAX US Equity,2022-05-08,SELL,JPMorgan BetaBuilders Develo,-9821,0,0,50.91,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BBEU US Equity,2022-05-08,BUY,JPMorgan BetaBuilders Europe,10008,0,0,49.96,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BBJP US Equity,2022-05-08,BUY,JPMorgan BetaBuilders Japan,10690,0,0,46.77,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BBRE US Equity,2022-05-08,BUY,JPMorgan BetaBuilders MSCI U,5160,0,0,96.89,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BBUS US Equity,2022-05-08,BUY,JPMorgan BetaBuilders US Equ,6752,0,0,74.05,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BCD US Equity,2022-05-08,SELL,abrdn Bloomberg All Commodit,-12363,0,0,40.44,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BDCZ US Equity,2022-05-08,SELL,ETRACS MVIS Business Develop,-26000,0,0,19.2306,1.0,500000,0,0,Quant,Pattern 87,us_adr
+BFOR US Equity,2022-05-08,SELL,巴伦周刊400?ETF,-8999,0,0,55.5605,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DWLD US Equity,2022-05-08,BUY,Davis Select Worldwide ETF,20292,0,0,24.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DWM US Equity,2022-05-08,SELL,智慧树国际股票基金,-10175,0,0,49.14,1.0,500000,0,0,Quant,Pattern 87,us_adr
+DXD US Equity,2022-05-08,BUY,ProShares两倍做空道琼斯30,10624,0,0,47.06,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EBLU US Equity,2022-05-08,BUY,Ecofin Global Water ESG Fund,13293,0,0,37.6136,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ECH US Equity,2022-05-08,BUY,iShares安硕MSCI智利ETF,19290,0,0,25.92,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ECON US Equity,2022-05-08,SELL,哥伦比亚新兴市场消费者ETF,-25037,0,0,19.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EDC US Equity,2022-05-08,SELL,Direxion每日新兴市场看涨3倍,-12471,0,0,40.09,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EDEN US Equity,2022-05-08,BUY,iShares安硕 MSCI丹麦上限ETF,5412,0,0,92.3755,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EDV US Equity,2022-05-08,SELL,领航延展久期国债ETF,-5046,0,0,99.07,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EELV US Equity,2022-05-08,SELL,景顺标普新兴市场低波动ETF,-20112,0,0,24.86,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FDRR US Equity,2022-05-08,BUY,Fidelity Dividend ETF for Ri,11967,0,0,41.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FDT US Equity,2022-05-08,SELL,First Trust发达市场除美国Alp,-9386,0,0,53.27,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FEM US Equity,2022-05-08,BUY,First Trust新兴市场AlphaDEX,21477,0,0,23.28,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FEMB US Equity,2022-05-08,BUY,First Trust Emerging Markets,18070,0,0,27.67,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FEMS US Equity,2022-05-08,SELL,First Trust新兴市场小盘股Alp,-13238,0,0,37.77,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FEX US Equity,2022-05-08,BUY,第一信托大盘核心AlphaDEX基金,5991,0,0,83.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FEZ US Equity,2022-05-08,SELL,SPDR欧元区斯托克50 ETF,-13444,0,0,37.19,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FFIU US Equity,2022-05-08,BUY,UVA Unconstrained Medium-Ter,22075,0,0,22.65,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FFTI US Equity,2022-05-08,BUY,FormulaFolios Tactical Incom,23441,0,0,21.33,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FGD US Equity,2022-05-08,SELL,第一信托道琼斯全球精选股利指,-20964,0,0,23.85,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FQAL US Equity,2022-05-08,SELL,Fidelity Quality Factor ETF,-10429,0,0,47.94,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FSMB US Equity,2022-05-08,BUY,First Trust Short Duration M,25252,0,0,19.8,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FSZ US Equity,2022-05-08,SELL,First Trust瑞士AlphaDEX基金,-8776,0,0,56.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FTA US Equity,2022-05-08,SELL,First Trust高市值价值型Alpha,-7270,0,0,68.77,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FTEC US Equity,2022-05-08,SELL,富达MSCI信息技术指数ETF,-4658,0,0,107.32,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FTRI US Equity,2022-05-08,BUY,First Trust Indxx环球自然资,32573,0,0,15.35,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FTSD US Equity,2022-05-08,BUY,富兰克林自由短期美国国债ETF,5462,0,0,91.535,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FTSL US Equity,2022-05-08,SELL,第一信托高级贷款ETF,-10731,0,0,46.59,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FTSM US Equity,2022-05-08,BUY,First Trust增强型短期限ETF,8401,0,0,59.51,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FTXN US Equity,2022-05-08,SELL,First Trust Nasdaq Oil & Gas,-17780,0,0,28.12,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWM US Equity,2022-05-08,BUY,iShares安硕MSCI马来西亚ETF,20695,0,0,24.16,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWMC US Equity,2022-05-08,SELL,Invesco S&P MidCap 400 Equal,-5885,0,0,84.9508,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWO US Equity,2022-05-08,BUY,iShares安硕MSCI奥地利ETF,25329,0,0,19.74,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWRE US Equity,2022-05-08,BUY,Invesco S&P 500 Equal Weight,13315,0,0,37.55,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWS US Equity,2022-05-08,SELL,iShares安硕MSCI新加坡ETF,-26178,0,0,19.1,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWSC US Equity,2022-05-08,SELL,Invesco S&P SmallCap 600 Equ,-6855,0,0,72.9373,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWT US Equity,2022-05-08,SELL,iShares安硕MSCI台湾ETF,-9064,0,0,55.16,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWZ US Equity,2022-05-08,SELL,iShares安硕MSCI巴西ETF,-15954,0,0,31.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EZU US Equity,2022-05-08,SELL,iShares安硕MSCI欧元区ETF,-12729,0,0,39.28,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FALN US Equity,2022-05-08,BUY,iShares Fallen Angels USD Bo,19260,0,0,25.96,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HIPS US Equity,2022-05-08,SELL,GraniteShares HIPS US High I,-36337,0,0,13.76,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HMOP US Equity,2022-05-08,SELL,Hartford Municipal Opportuni,-13231,0,0,37.79,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HNDL US Equity,2022-05-08,SELL,Strategy Shares NASDAQ 7 HAN,-22686,0,0,22.04,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HSCZ US Equity,2022-05-08,SELL,iShares Currency Hedged MSCI,-15188,0,0,32.9203,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HTAB US Equity,2022-05-08,SELL,Hartford Schroders Tax-Aware,-26041,0,0,19.2,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HTRB US Equity,2022-05-08,BUY,Hartford Total Return Bond E,14384,0,0,34.76,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HUSV US Equity,2022-05-08,SELL,First Trust Horizon Managed,-14910,0,0,33.5333,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HYDB US Equity,2022-05-08,BUY,iShares High Yield Bond Fact,10807,0,0,46.2657,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HYDW US Equity,2022-05-08,BUY,Xtrackers Low Beta High Yiel,10864,0,0,46.02,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HYG US Equity,2022-05-08,BUY,iShares安硕iBoxx高收益公司债,6444,0,0,77.59,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FHLC US Equity,2022-05-08,SELL,富达MSCI医疗保健指数ETF,-8177,0,0,61.14,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FIW US Equity,2022-05-08,BUY,First Trust Water ETF,6650,0,0,75.18,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FKU US Equity,2022-05-08,SELL,First Trust英国AlphaDEX基金,-14615,0,0,34.21,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FLBL US Equity,2022-05-08,BUY,Franklin Liberty Senior Loan,20614,0,0,24.255,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FLBR US Equity,2022-05-08,SELL,Franklin FTSE Brazil ETF,-25627,0,0,19.51,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FLCO US Equity,2022-05-08,BUY,Franklin Liberty Investment,22810,0,0,21.92,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FLDR US Equity,2022-05-08,BUY,Fidelity Low Duration Bond F,10028,0,0,49.86,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FLQL US Equity,2022-05-08,SELL,Franklin LibertyQ US Equity,-11933,0,0,41.9,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FLRN US Equity,2022-05-08,BUY,SPDR彭博投资级浮息券指数ETF,16420,0,0,30.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FLRT US Equity,2022-05-08,SELL,Pacer Pacific Asset Floating,-10517,0,0,47.54,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GUSH US Equity,2022-05-08,SELL,Direxion每日标普油气出口与生,-2729,0,0,183.17,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GVAL US Equity,2022-05-08,BUY,Cambria环球价值ETF,25138,0,0,19.89,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GVIP US Equity,2022-05-08,BUY,Goldman Sachs Hedge Industry,6300,0,0,79.3592,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GWX US Equity,2022-05-08,SELL,SPDR标准普尔国际小盘ETF,-15683,0,0,31.88,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HAIL US Equity,2022-05-08,SELL,SPDR S&P Kensho Smart Mobili,-12703,0,0,39.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HAWX US Equity,2022-05-08,BUY,iShares Currency Hedged MSCI,16795,0,0,29.7697,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HDEF US Equity,2022-05-08,BUY,Xtrackers MSCI EAFE High Div,22109,0,0,22.615,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HDGE US Equity,2022-05-08,SELL,AdvisorShares主动股票做空ETF,-17349,0,0,28.82,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HDMV US Equity,2022-05-08,SELL,First Trust Horizon Managed,-17070,0,0,29.2902,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HEEM US Equity,2022-05-08,BUY,iShares安硕货币对冲MSCI新兴,19462,0,0,25.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBMM US Equity,2022-05-08,SELL,iShares iBonds Dec 2024 Term,-19477,0,0,25.67,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBMN US Equity,2022-05-08,BUY,iShares iBonds Dec 2025 Term,19073,0,0,26.2142,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBND US Equity,2022-05-08,BUY,SPDR彭博国际公司债ETF,17205,0,0,29.06,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBUY US Equity,2022-05-08,BUY,Amplify Online Retail ETF,10131,0,0,49.35,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ICF US Equity,2022-05-08,SELL,iShares安硕科恩斯蒂尔斯房地,-7601,0,0,65.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ICOW US Equity,2022-05-08,SELL,Pacer Developed Markets Inte,-16939,0,0,29.5163,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ICSH US Equity,2022-05-08,BUY,BlackRock Ultra Short-Term B,9986,0,0,50.07,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ICVT US Equity,2022-05-08,SELL,iShares Convertible Bond ETF,-6740,0,0,74.18,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IDHQ US Equity,2022-05-08,BUY,Invesco S&P International De,19520,0,0,25.6135,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IDLV US Equity,2022-05-08,SELL,景顺标普国际发达低波动ETF,-16983,0,0,29.44,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FYC US Equity,2022-05-08,SELL,First Trust小盘股成长型Alpha,-8468,0,0,59.0452,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GAMR US Equity,2022-05-08,BUY,Wedbush ETFMG Video Game Tec,7850,0,0,63.6884,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GDMA US Equity,2022-05-08,SELL,Gadsden Dynamic Multi-Asset,-15165,0,0,32.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GENY US Equity,2022-05-08,BUY,Principal Millennials ETF,11978,0,0,41.74,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GIGB US Equity,2022-05-08,SELL,Goldman Sachs Access Investm,-10822,0,0,46.2,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GII US Equity,2022-05-08,SELL,SPDR标普全球基础设施ETF,-8862,0,0,56.42,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GLIN US Equity,2022-05-08,SELL,范达印度增长领袖ETF,-13865,0,0,36.0605,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GMOM US Equity,2022-05-08,BUY,CAMBRIA全球动量ETF,15748,0,0,31.75,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GNMA US Equity,2022-05-08,BUY,iShares安硕GNMA债券ETF,10979,0,0,45.54,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GNR US Equity,2022-05-08,BUY,SPDR标普环球自然资源ETF,8231,0,0,60.74,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FAS US Equity,2022-05-08,BUY,Direxion每日金融看多3倍股票,5884,0,0,84.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FCAL US Equity,2022-05-08,BUY,First Trust California Munic,10252,0,0,48.77,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FCG US Equity,2022-05-08,BUY,第一信托天然气ETF,19149,0,0,26.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FCOM US Equity,2022-05-08,BUY,富达MSCI电信服务指数ETF,12906,0,0,38.74,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FCTR US Equity,2022-05-08,SELL,First Trust Lunt US Factor R,-16846,0,0,29.68,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FCVT US Equity,2022-05-08,BUY,First Trust Exchange Traded,14530,0,0,34.41,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FDL US Equity,2022-05-08,BUY,第一信托晨星股利领先指数,13259,0,0,37.71,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FDLO US Equity,2022-05-08,BUY,Fidelity Low Volatility Fact,10764,0,0,46.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FDN US Equity,2022-05-08,SELL,第一信托道琼斯互联网指数基金,-3398,0,0,147.12,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FDNI US Equity,2022-05-08,BUY,First Trust Dow Jones Intern,23359,0,0,21.405,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IDOG US Equity,2022-05-08,BUY,ALPS国际行业分类股利狗股ETF,18501,0,0,27.0248,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IDU US Equity,2022-05-08,SELL,iShares安硕美国公用事业ETF,-5652,0,0,88.46,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IDV US Equity,2022-05-08,BUY,iShares安硕全球精选收益ETF,16694,0,0,29.95,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IEF US Equity,2022-05-08,SELL,iShares安硕7-10年国债ETF,-4946,0,0,101.09,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IEFA US Equity,2022-05-08,SELL,iShares安硕核心MSCI EAFE ETF,-7890,0,0,63.37,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IEI US Equity,2022-05-08,BUY,iShares安硕3-7年期国债ETF,4208,0,0,118.82,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IETC US Equity,2022-05-08,BUY,iShares Evolved US Technolog,10676,0,0,46.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IEUR US Equity,2022-05-08,SELL,安硕核心MSCI欧洲ETF,-10324,0,0,48.43,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IEUS US Equity,2022-05-08,SELL,iShares安硕MSCI欧洲小市值ETF,-9274,0,0,53.9112,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IFRA US Equity,2022-05-08,SELL,iShares US Infrastructure ET,-13528,0,0,36.96,1.0,500000,0,0,Quant,Pattern 87,us_adr
+HYXF US Equity,2022-05-08,BUY,iShares Trust iShares ESG Ad,10931,0,0,45.74,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IAI US Equity,2022-05-08,BUY,iShares安硕美国经纪交易商和,5608,0,0,89.15,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBB US Equity,2022-05-08,BUY,iShares安硕生物科技ETF,4418,0,0,113.17,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBDD US Equity,2022-05-08,BUY,iShares iBonds Mar 2023 Term,18875,0,0,26.4899,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBDN US Equity,2022-05-08,SELL,iShares iBonds Dec 2022 Term,-20000,0,0,25.0,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBDP US Equity,2022-05-08,SELL,iShares iBonds Dec 2024 Term,-20153,0,0,24.81,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBDQ US Equity,2022-05-08,SELL,iShares iBonds Dec 2025 Term,-20153,0,0,24.81,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBDR US Equity,2022-05-08,SELL,iShares iBonds Dec 2026 Term,-20859,0,0,23.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBMK US Equity,2022-05-08,SELL,iShares iBonds Dec 2022 Term,-19305,0,0,25.9,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IBML US Equity,2022-05-08,SELL,iShares iBonds Dec 2023 Term,-19743,0,0,25.325,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EMQQ US Equity,2022-05-08,BUY,Emerging Markets Internet an,17636,0,0,28.35,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EMTL US Equity,2022-05-08,SELL,SPDR DoubleLine Emerging Mar,-11764,0,0,42.5008,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ENFR US Equity,2022-05-08,BUY,Alerian能源基础设施ETF,21691,0,0,23.05,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ENOR US Equity,2022-05-08,BUY,iShares安硕MSCI挪威ETF,18221,0,0,27.44,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ENTR US Equity,2022-05-08,BUY,ERShares Entrepreneurs ETF,48597,0,0,10.2887,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EPHE US Equity,2022-05-08,BUY,iShares安硕MSCI菲律宾ETF,17289,0,0,28.92,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EPI US Equity,2022-05-08,SELL,WisdomTree印度盈利基金,-14450,0,0,34.6,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EPS US Equity,2022-05-08,BUY,WisdomTree US LargeCap Fund,11233,0,0,44.51,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EPU US Equity,2022-05-08,BUY,iShares安硕MSCI秘鲁ETF,16750,0,0,29.85,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EQAL US Equity,2022-05-08,BUY,Invesco Russell 1000 Equal W,11579,0,0,43.18,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IWN US Equity,2022-05-08,SELL,iShares安硕罗素2000价值型ETF,-3362,0,0,148.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IWR US Equity,2022-05-08,BUY,iShares安硕罗素中盘ETF,7016,0,0,71.26,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IWX US Equity,2022-05-08,SELL,iShares Russell Top 200 Valu,-7530,0,0,66.4,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IWY US Equity,2022-05-08,BUY,iShares安硕罗素领先200成长型,3636,0,0,137.49,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IXC US Equity,2022-05-08,BUY,iShares安硕全球能源ETF,12997,0,0,38.47,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IXG US Equity,2022-05-08,SELL,iShares安硕全球金融分类ETF,-6946,0,0,71.98,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IXP US Equity,2022-05-08,SELL,iShares安硕全球电讯服务ETF,-7666,0,0,65.22,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IYC US Equity,2022-05-08,BUY,iShares安硕美国非必需消费品E,7766,0,0,64.38,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IYF US Equity,2022-05-08,BUY,iShares安硕美国金融ETF,6540,0,0,76.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IYH US Equity,2022-05-08,BUY,iShares安硕美国医疗保健ETF,1848,0,0,270.55,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IYJ US Equity,2022-05-08,SELL,iShares安硕美国工业ETF,-5177,0,0,96.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IYR US Equity,2022-05-08,SELL,iShares安硕美国房地产ETF,-5008,0,0,99.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IYW US Equity,2022-05-08,BUY,iShares安硕美国科技ETF,5611,0,0,89.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IYY US Equity,2022-05-08,BUY,iShares安硕道琼斯美股ETF,4963,0,0,100.73,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IYZ US Equity,2022-05-08,BUY,iShares安硕美国电信ETF,18939,0,0,26.4,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IZRL US Equity,2022-05-08,BUY,ARK Israel Innovative Techno,24414,0,0,20.48,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JAGG US Equity,2022-05-08,BUY,JPMorgan U.S. Aggregate Bond,10425,0,0,47.96,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JDIV US Equity,2022-05-08,SELL,JPMorgan US Dividend ETF,-14618,0,0,34.2033,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JDST US Equity,2022-05-08,SELL,Direxion每日初级金矿开采商指,-53304,0,0,9.38,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JHEM US Equity,2022-05-08,SELL,John Hancock Multifactor Eme,-19716,0,0,25.3599,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IMCV US Equity,2022-05-08,BUY,iShares Morningstar Mid-Cap,7576,0,0,65.99,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IMTB US Equity,2022-05-08,SELL,iShares Core 5-10 Year USD B,-11142,0,0,44.875,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IMTM US Equity,2022-05-08,BUY,iShares MSCI International M,15639,0,0,31.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+INDY US Equity,2022-05-08,BUY,iShares安硕印度50 ETF,11576,0,0,43.19,1.0,500000,0,0,Quant,Pattern 87,us_adr
+INKM US Equity,2022-05-08,BUY,SPDR SSgA收益分配ETF,15479,0,0,32.3,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IPO US Equity,2022-05-08,BUY,复兴IPO ETF,15600,0,0,32.05,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IQDE US Equity,2022-05-08,BUY,FlexShares International Qua,23785,0,0,21.0216,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IQDF US Equity,2022-05-08,SELL,FlexShares国际优质股利指数基,-22660,0,0,22.065,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IQDG US Equity,2022-05-08,BUY,WisdomTree International Qua,15491,0,0,32.275,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IQIN US Equity,2022-05-08,SELL,IQ 500 International ETF,-16880,0,0,29.6207,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IUSS US Equity,2022-05-08,BUY,Invesco RAFI Strategic US Sm,14438,0,0,34.63,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IUSV US Equity,2022-05-08,SELL,安硕核心标普美国价值型ETF,-6904,0,0,72.42,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IVE US Equity,2022-05-08,BUY,iShares安硕标普500价值型ETF,3360,0,0,148.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IVOG US Equity,2022-05-08,SELL,Vanguard S&P Mid-Cap 400 Gro,-2868,0,0,174.325,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IVOV US Equity,2022-05-08,SELL,领航标普中盘400价值ETF,-3194,0,0,156.5133,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IVW US Equity,2022-05-08,SELL,iShares安硕标普500成长型ETF,-7552,0,0,66.2,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IWB US Equity,2022-05-08,BUY,iShares安硕罗素1000 ETF,2205,0,0,226.66,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IWC US Equity,2022-05-08,SELL,iShares安硕罗素超小盘ETF,-4393,0,0,113.8,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IWD US Equity,2022-05-08,BUY,iShares安硕罗素1000价值型ETF,3173,0,0,157.56,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IWL US Equity,2022-05-08,BUY,iShares Russell Top 200 ETF,5118,0,0,97.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EQWL US Equity,2022-05-08,SELL,Invesco S&P 100 Equal Weight,-6446,0,0,77.566,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ERX US Equity,2022-05-08,BUY,Direxion每日能源看多2倍股票,7763,0,0,64.4,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ESGU US Equity,2022-05-08,SELL,iShares ESG Aware MSCI USA E,-5457,0,0,91.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EUDG US Equity,2022-05-08,SELL,Wisdomtree Trust-Wisdomtree,-17675,0,0,28.2882,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EUFN US Equity,2022-05-08,SELL,iShares安硕MSCI欧洲金融ETF,-29797,0,0,16.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EUSA US Equity,2022-05-08,SELL,iShares安硕MSCI美国等量加权E,-6457,0,0,77.43,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EUSC US Equity,2022-05-08,BUY,WisdomTree欧洲对冲小型股票基,14806,0,0,33.7686,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EVX US Equity,2022-05-08,BUY,范达环境服务ETF,3586,0,0,139.3987,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWD US Equity,2022-05-08,BUY,iShares安硕MSCI瑞典ETF,14723,0,0,33.96,1.0,500000,0,0,Quant,Pattern 87,us_adr
+EWJV US Equity,2022-05-08,BUY,iShares MSCI Japan Value ETF,19661,0,0,25.43,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IG US Equity,2022-05-08,SELL,Principal Investment Grade C,-22502,0,0,22.22,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGBH US Equity,2022-05-08,SELL,iShares Interest Rate Hedged,-21340,0,0,23.43,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGE US Equity,2022-05-08,BUY,iShares安硕北美自然资源ETF,12016,0,0,41.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGHG US Equity,2022-05-08,BUY,ProShares投资等级利率套期ETF,7073,0,0,70.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGLB US Equity,2022-05-08,BUY,iShares安硕长期公司债ETF,9312,0,0,53.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGM US Equity,2022-05-08,SELL,iShares安硕扩展科技部门ETF,-1531,0,0,326.46,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGN US Equity,2022-05-08,BUY,iShares安硕北美高科技多媒体,7805,0,0,64.06,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGRO US Equity,2022-05-08,SELL,iShares International Divide,-8302,0,0,60.22,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGSB US Equity,2022-05-08,BUY,iShares安硕1-5年投资级公司债,9844,0,0,50.79,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IGV US Equity,2022-05-08,SELL,iShares安硕北美科技软件ETF,-1753,0,0,285.16,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IHDG US Equity,2022-05-08,BUY,Wisdom Tree国际对冲股利成长,12440,0,0,40.19,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IHE US Equity,2022-05-08,BUY,iShares安硕美国医药ETF,2715,0,0,184.1457,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IHI US Equity,2022-05-08,SELL,iShares安硕美国医药设备ETF,-9300,0,0,53.76,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IHY US Equity,2022-05-08,SELL,范达国际高收益债券ETF,-24395,0,0,20.4955,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IIGD US Equity,2022-05-08,SELL,Invesco Investment Grade Def,-20504,0,0,24.3851,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IJH US Equity,2022-05-08,BUY,iShares安硕标普中盘股ETF,2021,0,0,247.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ILCB US Equity,2022-05-08,BUY,iShares Morningstar US Equit,8807,0,0,56.77,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ILF US Equity,2022-05-08,BUY,iShares安硕标普拉美40 ETF,19747,0,0,25.32,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ILTB US Equity,2022-05-08,SELL,安硕核心10+年美元债券ETF,-8945,0,0,55.892,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IMCB US Equity,2022-05-08,SELL,iShares Morningstar Mid-Cap,-8067,0,0,61.98,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KORP US Equity,2022-05-08,SELL,American Century Diversified,-10634,0,0,47.015,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KRE US Equity,2022-05-08,BUY,SPDR标普地区银行ETF,7983,0,0,62.63,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KWEB US Equity,2022-05-08,SELL,金瑞基金中证海外中国互联网ET,-19425,0,0,25.74,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LABD US Equity,2022-05-08,SELL,Direxion每日标普生物技术反向,-7849,0,0,63.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LDSF US Equity,2022-05-08,BUY,First Trust Low Duration Str,26164,0,0,19.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LDUR US Equity,2022-05-08,BUY,PIMCO低久期主动型交易型开放,5156,0,0,96.96,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LEMB US Equity,2022-05-08,BUY,iShares安硕摩根大通新兴市场,14446,0,0,34.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LGLV US Equity,2022-05-08,SELL,SPDR SSGA美国大盘低波动率指,-3649,0,0,137.0,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LIT US Equity,2022-05-08,BUY,Global X锂电池技术ETF,7469,0,0,66.94,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LKOR US Equity,2022-05-08,BUY,FlexShares Credit-Scored US,11054,0,0,45.23,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FMB US Equity,2022-05-08,SELL,第一信托市政管理ETF,-9805,0,0,50.99,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FNCL US Equity,2022-05-08,BUY,富达MSCI金融指数ETF,10191,0,0,49.06,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FNDA US Equity,2022-05-08,SELL,嘉信基础美国小型公司指数,-10115,0,0,49.43,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FNDB US Equity,2022-05-08,SELL,Schwab Fundamental U.S. Broa,-9074,0,0,55.0996,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FNDX US Equity,2022-05-08,BUY,嘉信基本面美国大型公司指数基,8933,0,0,55.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FNGO US Equity,2022-05-08,BUY,MicroSectors FANG Index 2X L,22893,0,0,21.84,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FNI US Equity,2022-05-08,BUY,First Trust中印ETF,14076,0,0,35.52,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FPE US Equity,2022-05-08,SELL,First Trust优先证券与收益ETF,-27731,0,0,18.03,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FPX US Equity,2022-05-08,BUY,第一信托美国股票机会ETF,5445,0,0,91.82,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FPXI US Equity,2022-05-08,SELL,First Trust国际IPO基金,-11767,0,0,42.49,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MORT US Equity,2022-05-08,BUY,范达抵押权型REIT收益ETF,31665,0,0,15.79,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MOTI US Equity,2022-05-08,BUY,VanEck Morningstar Internati,16948,0,0,29.5011,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MRGR US Equity,2022-05-08,BUY,ProShares并购ETF,12360,0,0,40.4501,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MTUM US Equity,2022-05-08,BUY,iShares安硕Edge MSCI美国动量,3409,0,0,146.65,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MUB US Equity,2022-05-08,BUY,iShares安硕国家地方债ETF,4725,0,0,105.8,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MXI US Equity,2022-05-08,SELL,iShares安硕全球材料ETF,-5795,0,0,86.27,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NEAR US Equity,2022-05-08,SELL,贝莱德短期到期债券ETF,-10111,0,0,49.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NFTY US Equity,2022-05-08,BUY,First Trust印度NIFTY 50等权,11332,0,0,44.12,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NOBL US Equity,2022-05-08,BUY,ProShares标普500股利贵族ETF,5439,0,0,91.925,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NORW US Equity,2022-05-08,BUY,Global X富时北欧地区ETF,17458,0,0,28.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FTXO US Equity,2022-05-08,SELL,First Trust Nasdaq Bank ETF,-17223,0,0,29.03,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FV US Equity,2022-05-08,BUY,第一信托多尔西瑞特聚焦5 ETF,10517,0,0,47.54,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FVC US Equity,2022-05-08,BUY,First Trust Dorsey Wright Dy,13683,0,0,36.54,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FXD US Equity,2022-05-08,BUY,First Trust非必须消费AlphaDE,9881,0,0,50.6,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FXE US Equity,2022-05-08,BUY,景顺CurrencyShares欧元信托,5118,0,0,97.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FXF US Equity,2022-05-08,SELL,景顺Currencyshares瑞士法郎信,-5509,0,0,90.7514,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FXL US Equity,2022-05-08,SELL,第一信托科技AlphaDEX基金,-4877,0,0,102.51,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FXO US Equity,2022-05-08,BUY,First Trust金融AlphaDEX基金,11773,0,0,42.47,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FXY US Equity,2022-05-08,SELL,景顺CurrencyShares日元信托,-6968,0,0,71.75,1.0,500000,0,0,Quant,Pattern 87,us_adr
+FXZ US Equity,2022-05-08,BUY,First Trust Materials AlphaD,7187,0,0,69.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GQRE US Equity,2022-05-08,BUY,FlexShares全球优质房地产指数,7903,0,0,63.26,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GREK US Equity,2022-05-08,BUY,Global X MSCI希腊ETF,19630,0,0,25.47,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GRNB US Equity,2022-05-08,BUY,VanEck Green Bond ETF,21026,0,0,23.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GSCE US Equity,2022-05-08,SELL,GS Connect S&P GSCI Enhanced,-12500,0,0,40.0,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GSEW US Equity,2022-05-08,BUY,Goldman Sachs Equal Weight U,8211,0,0,60.89,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GSIE US Equity,2022-05-08,SELL,Goldman Sachs ActiveBeta Int,-16761,0,0,29.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GSSC US Equity,2022-05-08,SELL,Goldman Sachs ActiveBeta US,-8877,0,0,56.32,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GSY US Equity,2022-05-08,BUY,Invesco Ultra Short Duration,10057,0,0,49.715,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GUNR US Equity,2022-05-08,BUY,FlexShares全球上游自然资源指,11032,0,0,45.32,1.0,500000,0,0,Quant,Pattern 87,us_adr
+GURU US Equity,2022-05-08,SELL,Global X顶尖大师指数ETF,-13954,0,0,35.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ISCF US Equity,2022-05-08,SELL,iShares MSCI International S,-15918,0,0,31.41,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ISDX US Equity,2022-05-08,SELL,Invesco RAFI Strategic Devel,-17458,0,0,28.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ISRA US Equity,2022-05-08,BUY,范达以色列ETF,12534,0,0,39.8903,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ITB US Equity,2022-05-08,SELL,iShares安硕美国房屋建造ETF,-8501,0,0,58.81,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ITEQ US Equity,2022-05-08,BUY,BlueStar Israel Technology E,10544,0,0,47.42,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ITM US Equity,2022-05-08,SELL,范达中期地方债ETF,-11035,0,0,45.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ITOT US Equity,2022-05-08,BUY,iShares安硕核心标普全美股市E,5474,0,0,91.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IUS US Equity,2022-05-08,SELL,Invesco RAFI Strategic US ET,-12939,0,0,38.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IUSB US Equity,2022-05-08,SELL,安硕核心总美元债券市场ETF,-10631,0,0,47.03,1.0,500000,0,0,Quant,Pattern 87,us_adr
+IUSG US Equity,2022-05-08,BUY,安硕核心标普美国成长型ETF,5451,0,0,91.72,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NTSX US Equity,2022-05-08,SELL,WisdomTree US Efficient Core,-13931,0,0,35.89,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NUAG US Equity,2022-05-08,SELL,Nuveen Enhanced Yield US Agg,-23174,0,0,21.575,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NUDM US Equity,2022-05-08,BUY,Nuveen ESG International Dev,18882,0,0,26.48,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NUGT US Equity,2022-05-08,SELL,Direxion每日金矿开采商指数看,-8973,0,0,55.72,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NUMV US Equity,2022-05-08,SELL,Nuveen ESG Mid-Cap Value ETF,-14710,0,0,33.99,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NURE US Equity,2022-05-08,SELL,Nuveen Short-Term REIT ETF,-14040,0,0,35.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NUSC US Equity,2022-05-08,BUY,Nuveen ESG Small-Cap ETF,13892,0,0,35.99,1.0,500000,0,0,Quant,Pattern 87,us_adr
+NYF US Equity,2022-05-08,SELL,安硕纽约地方债券ETF,-9562,0,0,52.29,1.0,500000,0,0,Quant,Pattern 87,us_adr
+OCIO US Equity,2022-05-08,BUY,Clearshares Ocio Etf,16902,0,0,29.5818,1.0,500000,0,0,Quant,Pattern 87,us_adr
+OGIG US Equity,2022-05-08,BUY,O'Shares Global Internet Gia,17445,0,0,28.66,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JHML US Equity,2022-05-08,SELL,John Hancock Multi-Factor La,-9606,0,0,52.05,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JHMM US Equity,2022-05-08,SELL,John Hancock Multi-Factor Mi,-10285,0,0,48.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JHMT US Equity,2022-05-08,BUY,John Hancock Multi-Factor Te,6403,0,0,78.0764,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JMUB US Equity,2022-05-08,SELL,JPMorgan Municipal ETF,-10082,0,0,49.5931,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JNK US Equity,2022-05-08,BUY,SPDR彭博高收益债券ETF,5188,0,0,96.37,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JO US Equity,2022-05-08,BUY,iPath Series B Bloomberg Cof,8753,0,0,57.12,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JPEM US Equity,2022-05-08,BUY,JPMorgan Diversified Return,9682,0,0,51.6416,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JPHY US Equity,2022-05-08,BUY,JPMorgan High Yield Research,10896,0,0,45.885,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JPUS US Equity,2022-05-08,BUY,JPMorgan Diversified Return,5015,0,0,99.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JPXN US Equity,2022-05-08,BUY,iShares安硕JPX日经400指数ETF,8341,0,0,59.9439,1.0,500000,0,0,Quant,Pattern 87,us_adr
+OIH US Equity,2022-05-08,SELL,范达石油服务ETF,-1806,0,0,276.8,1.0,500000,0,0,Quant,Pattern 87,us_adr
+OIL US Equity,2022-05-08,BUY,iPath Pure Beta Crude Oil ET,14152,0,0,35.33,1.0,500000,0,0,Quant,Pattern 87,us_adr
+OILK US Equity,2022-05-08,BUY,Proshares Trust-Proshares K-,8753,0,0,57.12,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ONEO US Equity,2022-05-08,BUY,SPDR Russell 1000 Momentum F,5332,0,0,93.77,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ONEQ US Equity,2022-05-08,BUY,富达纳斯达克综合指数追踪股票,10526,0,0,47.5,1.0,500000,0,0,Quant,Pattern 87,us_adr
+OSCV US Equity,2022-05-08,BUY,Opus Small Cap Value ETF,16078,0,0,31.0982,1.0,500000,0,0,Quant,Pattern 87,us_adr
+OUSA US Equity,2022-05-08,BUY,O'Shares US Quality Dividend,11910,0,0,41.98,1.0,500000,0,0,Quant,Pattern 87,us_adr
+OUSM US Equity,2022-05-08,SELL,O'Shares US Small-Cap Qualit,-15150,0,0,33.0012,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PAVE US Equity,2022-05-08,BUY,Global X US Infrastructure D,19290,0,0,25.92,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PAWZ US Equity,2022-05-08,SELL,Proshares Pet Care ETF,-9112,0,0,54.87,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JSML US Equity,2022-05-08,BUY,Janus Henderson Small Cap Gr,9980,0,0,50.1,1.0,500000,0,0,Quant,Pattern 87,us_adr
+JXI US Equity,2022-05-08,SELL,iShares安硕环球公益事业ETF,-7897,0,0,63.3143,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KARS US Equity,2022-05-08,BUY,KraneShares Electric Vehicle,14727,0,0,33.95,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KBWD US Equity,2022-05-08,SELL,景顺 KBW高股益金融ETF,-27307,0,0,18.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KBWP US Equity,2022-05-08,SELL,Invesco KBW Property & Casua,-5953,0,0,83.98,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KBWR US Equity,2022-05-08,SELL,景顺 KBW地区银行ETF,-8846,0,0,56.52,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KCE US Equity,2022-05-08,SELL,SPDR标普资本市场ETF,-6389,0,0,78.2503,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KGRN US Equity,2022-05-08,SELL,KraneShares MSCI China Clean,-16113,0,0,31.03,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KLDW US Equity,2022-05-08,SELL,Knowledge Leaders Developed,-13196,0,0,37.89,1.0,500000,0,0,Quant,Pattern 87,us_adr
+KNG US Equity,2022-05-08,SELL,FT Cboe Vest S&P 500 Dividen,-9410,0,0,53.13,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LMBS US Equity,2022-05-08,SELL,第一信托短期机会ETF,-10283,0,0,48.62,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LOUP US Equity,2022-05-08,BUY,Innovator Loup Frontier Tech,13846,0,0,36.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LQD US Equity,2022-05-08,BUY,iShares安硕iBoxx美元投资级公,4512,0,0,110.81,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LQDH US Equity,2022-05-08,BUY,iShares安硕利率对冲公司债ETF,5480,0,0,91.24,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LRGF US Equity,2022-05-08,SELL,iShares MSCI USA Multifactor,-12103,0,0,41.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+LSAF US Equity,2022-05-08,BUY,LeaderShares AlphaFactor US,16003,0,0,31.2434,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MBB US Equity,2022-05-08,BUY,iShares安硕抵押担保证券ETF,5153,0,0,97.03,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MBSD US Equity,2022-05-08,SELL,Flexshares Trust-Flexshares,-23584,0,0,21.2,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MCHI US Equity,2022-05-08,BUY,iShares安硕MSCI中国ETF,10521,0,0,47.52,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MDY US Equity,2022-05-08,SELL,SPDR标普中盘股400 ETF信托,-1105,0,0,452.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PBD US Equity,2022-05-08,BUY,Invesco Global Clean Energy,23809,0,0,21.0,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PBDM US Equity,2022-05-08,BUY,Invesco PureBeta FTSE Develo,20171,0,0,24.7879,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PBJ US Equity,2022-05-08,SELL,景顺动态食品饮料ETF,-10871,0,0,45.99,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PBP US Equity,2022-05-08,BUY,景顺标普500买写ETF,22613,0,0,22.1106,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PBTP US Equity,2022-05-08,SELL,Invesco Exchange-Traded Fund,-19138,0,0,26.1248,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PBW US Equity,2022-05-08,BUY,景顺WilderHill清洁能源ETF,9695,0,0,51.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PCEF US Equity,2022-05-08,BUY,景顺CEF收益综合ETF,24679,0,0,20.26,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PDBC US Equity,2022-05-08,SELL,景顺优化收益多元化商品策略No,-26028,0,0,19.21,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PDN US Equity,2022-05-08,BUY,景顺富时RAFI发达市场除美国中,15903,0,0,31.44,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PEY US Equity,2022-05-08,SELL,景顺高收益股利业绩ETF,-23245,0,0,21.51,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MDYV US Equity,2022-05-08,SELL,SPDR标普400中盘价值ETF,-7602,0,0,65.77,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MFDX US Equity,2022-05-08,SELL,PIMCO RAFI Dynamic Multi-Fac,-18767,0,0,26.642,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MFUS US Equity,2022-05-08,SELL,PIMCO RAFI Dynamic Multi-Fac,-12637,0,0,39.5656,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MGK US Equity,2022-05-08,BUY,领航超大盘股票成长型ETF,2491,0,0,200.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MGV US Equity,2022-05-08,BUY,领航超大盘股价值型ETF,4836,0,0,103.39,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MINC US Equity,2022-05-08,BUY,AdvisorShares Newfleet多重板,10797,0,0,46.305,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MJ US Equity,2022-05-08,SELL,ETFMG Alternative Harvest ET,-63291,0,0,7.9,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MMIN US Equity,2022-05-08,BUY,IQ MacKay Municipal Insured,20500,0,0,24.39,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MNA US Equity,2022-05-08,BUY,IQ合并套利ETF,15792,0,0,31.66,1.0,500000,0,0,Quant,Pattern 87,us_adr
+MOO US Equity,2022-05-08,BUY,范达农业企业ETF,5159,0,0,96.9,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PRNT US Equity,2022-05-08,BUY,The 3D Printing ETF,20909,0,0,23.9126,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PSC US Equity,2022-05-08,SELL,Principal U.S. Small-Cap Mul,-12240,0,0,40.8496,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PSI US Equity,2022-05-08,SELL,景顺动态半导体ETF,-4460,0,0,112.09,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PSQ US Equity,2022-05-08,SELL,Proshares做空QQQ,-37481,0,0,13.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PST US Equity,2022-05-08,BUY,Proshares超级做空7-10年期国,24521,0,0,20.39,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PTF US Equity,2022-05-08,SELL,景顺DWA科技动量ETF,-4221,0,0,118.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PTH US Equity,2022-05-08,BUY,Invesco DWA Healthcare Momen,4208,0,0,118.81,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PTLC US Equity,2022-05-08,BUY,Pacer Trendpilot US Large Ca,13322,0,0,37.53,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PUTW US Equity,2022-05-08,SELL,Wisdomtree Cboe S&P 500 Putw,-14845,0,0,33.6806,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PWB US Equity,2022-05-08,BUY,Invesco Dynamic Large Cap Gr,7897,0,0,63.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PFFD US Equity,2022-05-08,BUY,Global X US Preferred ETF,23707,0,0,21.09,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PFM US Equity,2022-05-08,BUY,景顺股利分配ETF,13601,0,0,36.76,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PGF US Equity,2022-05-08,SELL,景顺金融优先股ETF,-32981,0,0,15.16,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PGHY US Equity,2022-05-08,SELL,景顺环球短期高收益债券ETF,-25316,0,0,19.75,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PGX US Equity,2022-05-08,SELL,景顺优先股ETF,-41084,0,0,12.17,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PHDG US Equity,2022-05-08,BUY,景顺标普500下行对冲ETF,14450,0,0,34.6,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PHYL US Equity,2022-05-08,BUY,PGIM Active High Yield Bond,13908,0,0,35.95,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PICB US Equity,2022-05-08,BUY,景顺国际公司债券ETF,21834,0,0,22.9,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PIO US Equity,2022-05-08,BUY,景顺环球水资源ETF,15114,0,0,33.08,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PIZ US Equity,2022-05-08,BUY,Invesco DWA Developed Market,16605,0,0,30.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RFDA US Equity,2022-05-08,BUY,RiverFront Dynamic US Divide,10725,0,0,46.6174,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RFV US Equity,2022-05-08,SELL,Invesco S&P MidCap 400 Pure,-5478,0,0,91.2683,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RIGS US Equity,2022-05-08,BUY,Riverfront策略收益基金,21720,0,0,23.02,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RING US Equity,2022-05-08,BUY,iShares安硕MSCI全球黄金矿业,17998,0,0,27.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RLY US Equity,2022-05-08,SELL,SPDR SSgA多资产实际回报ETF,-16313,0,0,30.65,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ROBO US Equity,2022-05-08,SELL,Robo全球机器人与自动化指数ET,-10264,0,0,48.71,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ROM US Equity,2022-05-08,BUY,ProShares Ultra科技基金,13687,0,0,36.53,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RPG US Equity,2022-05-08,BUY,Invesco S&P 500 Pure Growth,3109,0,0,160.81,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RPV US Equity,2022-05-08,SELL,Invesco Exchange-Traded Fund,-5985,0,0,83.54,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RSX US Equity,2022-05-08,BUY,范达俄罗斯ETF,88495,0,0,5.65,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PKB US Equity,2022-05-08,BUY,景顺动态建筑ETF,11938,0,0,41.88,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PNQI US Equity,2022-05-08,SELL,景顺纳斯达克互联网ETF,-3745,0,0,133.5,1.0,500000,0,0,Quant,Pattern 87,us_adr
+POCT US Equity,2022-05-08,SELL,Innovator U.S. Equity Power,-17232,0,0,29.015,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PPH US Equity,2022-05-08,SELL,范达制药ETF,-6484,0,0,77.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PPLT US Equity,2022-05-08,SELL,安本铂ETF信托,-5595,0,0,89.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PPTY US Equity,2022-05-08,BUY,US Diversified Real Estate E,14577,0,0,34.2983,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PREF US Equity,2022-05-08,BUY,Principal Spectrum Preferred,27654,0,0,18.08,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PRF US Equity,2022-05-08,BUY,景顺富时RAFI美国1000 ETF,3080,0,0,162.33,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PRFZ US Equity,2022-05-08,SELL,景顺富时RAFI美国1500小盘股ET,-3026,0,0,165.21,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PRN US Equity,2022-05-08,BUY,Invesco DWA Industrials Mome,5526,0,0,90.4715,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RTM US Equity,2022-05-08,SELL,Invesco S&P 500 Equal Weight,-2777,0,0,180.04,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RVNU US Equity,2022-05-08,SELL,Xtrackers Municipal Infrastr,-20012,0,0,24.985,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RWK US Equity,2022-05-08,BUY,InvInvesco S&P Midcap 400 Re,5728,0,0,87.28,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RWM US Equity,2022-05-08,BUY,ProShares做空罗素2000指数基,20300,0,0,24.63,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RWX US Equity,2022-05-08,BUY,SPDR道琼斯国际房地产ETF,16313,0,0,30.65,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RYJ US Equity,2022-05-08,SELL,Invesco Raymond James SB-1 E,-8971,0,0,55.7297,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RYT US Equity,2022-05-08,BUY,Invesco S&P 500 Equal Weight,1940,0,0,257.63,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RZV US Equity,2022-05-08,SELL,Invesco S&P SmallCap 600 Pur,-5475,0,0,91.32,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCHB US Equity,2022-05-08,SELL,嘉信美国整体市场ETF,-10356,0,0,48.28,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCHF US Equity,2022-05-08,BUY,嘉信国际股票ETF,14872,0,0,33.62,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCHK US Equity,2022-05-08,SELL,Schwab 1000 Index ETF,-12562,0,0,39.8,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCHM US Equity,2022-05-08,BUY,嘉信理财美国中盘ETF,7197,0,0,69.47,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCHO US Equity,2022-05-08,SELL,嘉信短期美国国债ETF,-10154,0,0,49.24,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCHR US Equity,2022-05-08,SELL,嘉信中期美国国债ETF,-9744,0,0,51.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCHV US Equity,2022-05-08,SELL,Schwab美国大盘价值ETF基金,-7358,0,0,67.95,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCO US Equity,2022-05-08,SELL,Proshares两倍做空彭博原油,-107758,0,0,4.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SCZ US Equity,2022-05-08,SELL,iShares安硕MSCI EAFE小盘股ET,-8375,0,0,59.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SDEM US Equity,2022-05-08,BUY,Global X MSCI SuperDividend,55076,0,0,9.0782,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SDG US Equity,2022-05-08,SELL,iShares Trust iShares MSCI G,-6130,0,0,81.56,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SDOG US Equity,2022-05-08,BUY,ALPS行业分类红利狗股ETF,9005,0,0,55.52,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VCLT US Equity,2022-05-08,SELL,领航长期公司债ETF,-6122,0,0,81.66,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VCR US Equity,2022-05-08,BUY,领航非必需消费品ETF,1910,0,0,261.77,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VFH US Equity,2022-05-08,BUY,领航金融ETF,5903,0,0,84.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VFMF US Equity,2022-05-08,BUY,Vanguard US Multifactor ETF,5047,0,0,99.0648,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VFMV US Equity,2022-05-08,BUY,Vanguard U.S. Minimum Volati,5044,0,0,99.1113,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VGK US Equity,2022-05-08,BUY,领航富时欧洲指数ETF,8813,0,0,56.73,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VGLT US Equity,2022-05-08,SELL,领航长期国债ETF,-7190,0,0,69.54,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VGSH US Equity,2022-05-08,SELL,领航短期国债ETF,-8486,0,0,58.92,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VIGI US Equity,2022-05-08,BUY,Vanguard International Divid,6927,0,0,72.18,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VIOG US Equity,2022-05-08,BUY,Vanguard S&P Small-Cap 600 G,2578,0,0,193.9099,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SLY US Equity,2022-05-08,BUY,SPDR标普600小盘ETF基金,5821,0,0,85.89,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SLYG US Equity,2022-05-08,SELL,SPDR标普600小市值成长ETF,-6642,0,0,75.27,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SLYV US Equity,2022-05-08,BUY,SPDR标普600小盘价值ETF,6415,0,0,77.94,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SMDV US Equity,2022-05-08,SELL,Proshares Trust-Proshares Ru,-8307,0,0,60.19,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SMH US Equity,2022-05-08,SELL,范达半导体ETF,-2148,0,0,232.67,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SMIN US Equity,2022-05-08,SELL,iShares安硕MSCI印度小盘股ETF,-9321,0,0,53.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SMLF US Equity,2022-05-08,SELL,iShares MSCI USA Small-Cap M,-9699,0,0,51.55,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SMLV US Equity,2022-05-08,BUY,SPDR道富美国小盘低波动指数ET,4681,0,0,106.8003,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SMMV US Equity,2022-05-08,SELL,iShares MSCI USA Small-Cap M,-14376,0,0,34.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SOCL US Equity,2022-05-08,BUY,Global X社交媒体指数ETF,13605,0,0,36.75,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPYG US Equity,2022-05-08,BUY,SPDR投资组合标普500成长型ETF,8719,0,0,57.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPYX US Equity,2022-05-08,BUY,SPDR S&P 500 Fossil Fuel Res,4982,0,0,100.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SRTY US Equity,2022-05-08,BUY,ProShares UltraPro做空罗素20,7766,0,0,64.38,1.0,500000,0,0,Quant,Pattern 87,us_adr
+STOT US Equity,2022-05-08,BUY,SPDR DoubleLine Short Durati,10624,0,0,47.0601,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SUSA US Equity,2022-05-08,BUY,安硕MSCI美国ESG精选ETF,5661,0,0,88.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SUSC US Equity,2022-05-08,SELL,iShares ESG Aware USD Corpor,-21422,0,0,23.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SVXY US Equity,2022-05-08,BUY,ProShares做空VIX短期期货ETF,10537,0,0,47.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SWAN US Equity,2022-05-08,SELL,Amplify Blackswan Growth & T,-17787,0,0,28.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TBF US Equity,2022-05-08,BUY,Proshares做空20年以上国债,24485,0,0,20.42,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TBT US Equity,2022-05-08,SELL,Proshares超级做空20年期以上,-18375,0,0,27.21,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PWC US Equity,2022-05-08,BUY,景顺动态市场ETF,4811,0,0,103.9208,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PWV US Equity,2022-05-08,SELL,景顺动态大盘价值ETF,-10493,0,0,47.65,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PXF US Equity,2022-05-08,BUY,景顺富时RAFI发达市场除美国ET,11603,0,0,43.09,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PXH US Equity,2022-05-08,BUY,景顺富时RAFI新兴市场ETF,26413,0,0,18.93,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PZA US Equity,2022-05-08,SELL,景顺全国免AMT地方债ETF,-21231,0,0,23.55,1.0,500000,0,0,Quant,Pattern 87,us_adr
+PZT US Equity,2022-05-08,BUY,景顺纽约免AMT市政债券ETF,22192,0,0,22.53,1.0,500000,0,0,Quant,Pattern 87,us_adr
+QAI US Equity,2022-05-08,SELL,IndexIQ ETF信托基金-IQ套期多,-16949,0,0,29.5,1.0,500000,0,0,Quant,Pattern 87,us_adr
+QEMM US Equity,2022-05-08,BUY,SPDR MSCI新兴市场策略因子ETF,8484,0,0,58.9279,1.0,500000,0,0,Quant,Pattern 87,us_adr
+QGRO US Equity,2022-05-08,BUY,American Century STOXX US Qu,8219,0,0,60.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+QLD US Equity,2022-05-08,BUY,ProShares两倍做多纳斯达克,9674,0,0,51.68,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SDOW US Equity,2022-05-08,SELL,Proshares UltraPro做空道指30,-15605,0,0,32.04,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SDVY US Equity,2022-05-08,SELL,First Trust SMID Cap Rising,-18796,0,0,26.6,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SGDM US Equity,2022-05-08,BUY,Sprott金矿公司ETF,16760,0,0,29.8319,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SHE US Equity,2022-05-08,SELL,SPDR SSGA Gender Diversity I,-6046,0,0,82.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SHY US Equity,2022-05-08,SELL,iShares安硕1-3年期国债ETF,-6032,0,0,82.88,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SHYD US Equity,2022-05-08,BUY,范达短期高收益地方债ETF,22163,0,0,22.56,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SILJ US Equity,2022-05-08,BUY,ETFMG Prime Junior银矿开采ET,42158,0,0,11.86,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SIZE US Equity,2022-05-08,SELL,iShares安硕MSCI美国规模因素E,-4150,0,0,120.48,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SJB US Equity,2022-05-08,SELL,ProShares做空高收益,-26371,0,0,18.96,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SKOR US Equity,2022-05-08,SELL,FlexShares Credit-Scored US,-10450,0,0,47.8454,1.0,500000,0,0,Quant,Pattern 87,us_adr
+QQQ US Equity,2022-05-08,SELL,景顺 QQQ信托系列1,-1616,0,0,309.25,1.0,500000,0,0,Quant,Pattern 87,us_adr
+QQQE US Equity,2022-05-08,SELL,Direxion纳斯达克100相等权重,-7442,0,0,67.18,1.0,500000,0,0,Quant,Pattern 87,us_adr
+QQXT US Equity,2022-05-08,BUY,First Trust NASDAQ-100 Ex-Te,6772,0,0,73.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+QUAL US Equity,2022-05-08,BUY,iShares安硕Edge MSCI美国质量,4087,0,0,122.32,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RBIN US Equity,2022-05-08,SELL,Nationwide Risk-Based Intern,-20709,0,0,24.1439,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RCD US Equity,2022-05-08,BUY,Invesco S&P 500 Equal Weight,4020,0,0,124.35,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RDIV US Equity,2022-05-08,SELL,Invesco S&P Ultra Dividend R,-11457,0,0,43.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+REET US Equity,2022-05-08,SELL,安硕环球房地产ETF,-18839,0,0,26.54,1.0,500000,0,0,Quant,Pattern 87,us_adr
+REGL US Equity,2022-05-08,BUY,Proshares S&P Midcap 400 Div,7173,0,0,69.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+RESP US Equity,2022-05-08,BUY,WisdomTree US ESG Fund,11263,0,0,44.3914,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VIOV US Equity,2022-05-08,BUY,Vanguard S&P Small-Cap 600 V,3019,0,0,165.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VIXM US Equity,2022-05-08,SELL,Proshares VIX中期期货ETF,-14132,0,0,35.38,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VIXY US Equity,2022-05-08,SELL,ProShares VIX短期期货ETF,-24777,0,0,20.18,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VNM US Equity,2022-05-08,BUY,范达越南ETF,30084,0,0,16.62,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VNQ US Equity,2022-05-08,SELL,领航房地产ETF,-5005,0,0,99.9,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VNQI US Equity,2022-05-08,BUY,领航全球(美国除外)房地产ETF,10624,0,0,47.06,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VO US Equity,2022-05-08,BUY,领航中盘股ETF,2312,0,0,216.25,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VOE US Equity,2022-05-08,BUY,领航中型股价值ETF,3488,0,0,143.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VONG US Equity,2022-05-08,BUY,领航罗素1000成长ETF,8103,0,0,61.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VONV US Equity,2022-05-08,BUY,领航罗素1000价值,7229,0,0,69.16,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPHQ US Equity,2022-05-08,BUY,景顺标普500优质ETF,10794,0,0,46.32,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPHY US Equity,2022-05-08,SELL,SPDR投资组合高收益债券ETF,-21114,0,0,23.68,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPLG US Equity,2022-05-08,SELL,SPDR Portfolio S&P 500 ETF,-10330,0,0,48.4,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPMB US Equity,2022-05-08,SELL,SPDR Portfolio Mortgage Back,-21968,0,0,22.76,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPMD US Equity,2022-05-08,SELL,SPDR Portfolio S&P 400 Mid C,-11499,0,0,43.48,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPTI US Equity,2022-05-08,SELL,SPDR投资组合中期国债ETF,-17064,0,0,29.3,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPVM US Equity,2022-05-08,SELL,Invesco S&P 500 Value with M,-9617,0,0,51.9904,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPVU US Equity,2022-05-08,SELL,Invesco S&P 500 Enhanced Val,-11382,0,0,43.9287,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPXU US Equity,2022-05-08,BUY,ProShares UltraPro做空标普50,29463,0,0,16.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPYD US Equity,2022-05-08,SELL,SPDR Portfolio S&P 500 High,-11407,0,0,43.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TBX US Equity,2022-05-08,BUY,ProShares做空7-10年国债,18274,0,0,27.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TDIV US Equity,2022-05-08,BUY,第一信托纳斯达克科技股利指数,9150,0,0,54.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TDTT US Equity,2022-05-08,BUY,FlexShares iBoxx 3年目标久期,19685,0,0,25.4,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TECL US Equity,2022-05-08,BUY,Direxion每日科技看多3倍股票,12333,0,0,40.54,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TFI US Equity,2022-05-08,SELL,SPDR纽文彭博地方债ETF,-10938,0,0,45.71,1.0,500000,0,0,Quant,Pattern 87,us_adr
+THD US Equity,2022-05-08,BUY,iShares安硕MSCI泰国ETF,6820,0,0,73.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TILT US Equity,2022-05-08,BUY,FlexShares晨星美国市场因素倾,3141,0,0,159.18,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TIP US Equity,2022-05-08,BUY,iShares安硕TIPS债券ETF,4230,0,0,118.18,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TLH US Equity,2022-05-08,SELL,iShares安硕10-20年国债ETF,-4188,0,0,119.37,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TLT US Equity,2022-05-08,SELL,iShares安硕20年期以上美国国,-4398,0,0,113.67,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TLTE US Equity,2022-05-08,SELL,FlexShares晨星新兴市场因素倾,-9682,0,0,51.64,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TOK US Equity,2022-05-08,BUY,iShares安硕MSCI Kokusai ETF,5719,0,0,87.42,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TOTL US Equity,2022-05-08,SELL,SPDR Doubleline总回报策略ETF,-11633,0,0,42.98,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TPYP US Equity,2022-05-08,SELL,Tortoise North American Pipe,-18587,0,0,26.9,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TQQQ US Equity,2022-05-08,SELL,ProShares UltraPro三倍做多,-14446,0,0,34.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TTAC US Equity,2022-05-08,SELL,FCF US Quality ETF,-10343,0,0,48.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+TZA US Equity,2022-05-08,SELL,Direxion每日小盘看空3倍股票,-12062,0,0,41.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UCO US Equity,2022-05-08,BUY,Proshares Ultra彭博原油,2776,0,0,180.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UDOW US Equity,2022-05-08,BUY,ProShares UltraPro 3倍道指30,8190,0,0,61.05,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UEVM US Equity,2022-05-08,BUY,VictoryShares USAA MSCI Emer,11427,0,0,43.7556,1.0,500000,0,0,Quant,Pattern 87,us_adr
+USL US Equity,2022-05-08,BUY,美国12月期石油基金有限合伙,12295,0,0,40.6669,1.0,500000,0,0,Quant,Pattern 87,us_adr
+USTB US Equity,2022-05-08,SELL,VictoryShares USAA Core Shor,-10131,0,0,49.349,1.0,500000,0,0,Quant,Pattern 87,us_adr
+USVM US Equity,2022-05-08,SELL,VictoryShares USAA MSCI USA,-7705,0,0,64.8869,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UTRN US Equity,2022-05-08,BUY,Vesper US Large Cap Short-Te,19194,0,0,26.0485,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UWM US Equity,2022-05-08,BUY,ProShares Ultra罗素2000,13751,0,0,36.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UYG US Equity,2022-05-08,BUY,ProShares两倍做空金融,9571,0,0,52.24,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UYM US Equity,2022-05-08,BUY,ProShares Ultra Basic Materi,4889,0,0,102.25,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VBK US Equity,2022-05-08,SELL,领航小盘成长ETF,-2338,0,0,213.82,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VBND US Equity,2022-05-08,SELL,Vident核心美国债券策略基金,-11140,0,0,44.8805,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VCIT US Equity,2022-05-08,BUY,领航长期公司债券ETF,6195,0,0,80.7,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VOO US Equity,2022-05-08,BUY,Vanguard标普500 ETF,1322,0,0,378.1,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VOOV US Equity,2022-05-08,BUY,Vanguard S&P 500 Value ETF,3472,0,0,144.0,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VPL US Equity,2022-05-08,SELL,先锋富时亚太ETF,-7305,0,0,68.44,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VRAI US Equity,2022-05-08,BUY,Virtus Real Asset Income ETF,18443,0,0,27.11,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VRP US Equity,2022-05-08,SELL,景顺可变利率优先ETF,-21385,0,0,23.38,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VSDA US Equity,2022-05-08,SELL,Victoryshares Dividend Accel,-11137,0,0,44.8938,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VSGX US Equity,2022-05-08,SELL,Vanguard ESG International S,-9639,0,0,51.87,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VTC US Equity,2022-05-08,SELL,Vanguard Total Corporate Bon,-6445,0,0,77.57,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VTI US Equity,2022-05-08,BUY,Vanguard全股票市场ETF,2427,0,0,205.95,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XSLV US Equity,2022-05-08,BUY,Invesco S&P SmallCap Low Vol,11020,0,0,45.37,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XSMO US Equity,2022-05-08,BUY,Invesco S&P SmallCap Momentu,10443,0,0,47.8747,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XSVM US Equity,2022-05-08,SELL,Invesco S&P SmallCap Value w,-9926,0,0,50.37,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XTL US Equity,2022-05-08,BUY,SPDR标普电信ETF基金,6089,0,0,82.1142,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XTN US Equity,2022-05-08,SELL,SPDR标普交通运输ETF,-6243,0,0,80.08,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XYLD US Equity,2022-05-08,BUY,Global X S&P 500 Covered Cal,10729,0,0,46.6,1.0,500000,0,0,Quant,Pattern 87,us_adr
+YYY US Equity,2022-05-08,BUY,Amplify高收入ETF,36390,0,0,13.74,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ZROZ US Equity,2022-05-08,SELL,太平洋投资管理公司25年+期零,-4686,0,0,106.69,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XLU US Equity,2022-05-08,SELL,公用事业精选行业SPDR基金,-6924,0,0,72.21,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XLY US Equity,2022-05-08,BUY,非必需消费品精选行业SPDR基金,3161,0,0,158.15,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XMHQ US Equity,2022-05-08,SELL,Invesco S&P MidCap Quality E,-7118,0,0,70.24,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XMMO US Equity,2022-05-08,SELL,Invesco S&P MidCap Momentum,-6153,0,0,81.25,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XMVM US Equity,2022-05-08,SELL,Invesco S&P MidCap Value wit,-11155,0,0,44.82,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XOP US Equity,2022-05-08,BUY,SPDR标普油气勘探与生产ETF,3524,0,0,141.88,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XPH US Equity,2022-05-08,BUY,SPDR标普制药指数ETF,12623,0,0,39.61,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XRLV US Equity,2022-05-08,BUY,Invesco Exchange-Traded Fund,10233,0,0,48.861,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XRT US Equity,2022-05-08,SELL,SPDR标普零售业ETF,-7199,0,0,69.45,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XSD US Equity,2022-05-08,BUY,SPDR标准普尔半导体ETF,2872,0,0,174.07,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SOXL US Equity,2022-05-08,BUY,Direxion每日半导体看多3倍股,21413,0,0,23.35,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SOXS US Equity,2022-05-08,SELL,Direxion每日半导体做空三倍股,-9809,0,0,50.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SOXX US Equity,2022-05-08,BUY,iShares安硕半导体ETF,1222,0,0,409.1,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SOYB US Equity,2022-05-08,SELL,Teucrium Soybean Fund,-17998,0,0,27.78,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPAB US Equity,2022-05-08,SELL,SPDR投资组合综合债券ETF,-18982,0,0,26.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPBO US Equity,2022-05-08,BUY,SPDR投资组合公司债券,16803,0,0,29.755,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPDV US Equity,2022-05-08,SELL,AAM S&P 500 High Dividend Va,-15841,0,0,31.562,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPDW US Equity,2022-05-08,BUY,SPDR投资组合全球（美国除外）,15979,0,0,31.29,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPHB US Equity,2022-05-08,BUY,景顺标准普尔500高Beta ETF,7428,0,0,67.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+SPHD US Equity,2022-05-08,BUY,景顺标普500高股利低波动ETF,10513,0,0,47.56,1.0,500000,0,0,Quant,Pattern 87,us_adr
+WTV US Equity,2022-05-08,SELL,WisdomTree U.S. Value Fund,-8409,0,0,59.4575,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XCEM US Equity,2022-05-08,BUY,Columbia EM Core ex-China ET,18101,0,0,27.6224,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XHB US Equity,2022-05-08,BUY,SPDR标普房屋建筑商指数ETF,8148,0,0,61.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XHE US Equity,2022-05-08,SELL,SPDR S&P Health Care Equipme,-5484,0,0,91.16,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XHS US Equity,2022-05-08,SELL,SPDR标普医疗保健服务ETF,-5845,0,0,85.53,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XITK US Equity,2022-05-08,BUY,SPDR FactSet Innovative Tech,4188,0,0,119.3649,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XLB US Equity,2022-05-08,SELL,材料精选行业SPDR基金,-5915,0,0,84.53,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XLC US Equity,2022-05-08,BUY,通信服务精选行业SPDR基金,8421,0,0,59.37,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XLP US Equity,2022-05-08,SELL,必需消费品精选行业SPDR基金,-6517,0,0,76.72,1.0,500000,0,0,Quant,Pattern 87,us_adr
+XLRE US Equity,2022-05-08,SELL,Real Estate Select Sector SP,-11153,0,0,44.83,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UGL US Equity,2022-05-08,BUY,ProShares两倍黄金,8071,0,0,61.95,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ULST US Equity,2022-05-08,SELL,SPDR SSgA超短期债券ETF,-12506,0,0,39.98,1.0,500000,0,0,Quant,Pattern 87,us_adr
+ULVM US Equity,2022-05-08,SELL,VictoryShares USAA MSCI USA,-7622,0,0,65.5986,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UNG US Equity,2022-05-08,BUY,美国天然气基金有限合伙企业,18063,0,0,27.68,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UOCT US Equity,2022-05-08,SELL,Innovator U.S. Equity Ultra,-18285,0,0,27.3446,1.0,500000,0,0,Quant,Pattern 87,us_adr
+UPRO US Equity,2022-05-08,BUY,ProShares UltraPro标普500,10667,0,0,46.87,1.0,500000,0,0,Quant,Pattern 87,us_adr
+URA US Equity,2022-05-08,BUY,Global X铀ETF,22758,0,0,21.97,1.0,500000,0,0,Quant,Pattern 87,us_adr
+URE US Equity,2022-05-08,SELL,ProShares Ultra房地产指数基,-5908,0,0,84.6196,1.0,500000,0,0,Quant,Pattern 87,us_adr
+URTH US Equity,2022-05-08,BUY,iShares安硕MSCI全球ETF,4297,0,0,116.34,1.0,500000,0,0,Quant,Pattern 87,us_adr
+USIG US Equity,2022-05-08,SELL,iShares安硕广泛美元投资级公,-9744,0,0,51.31,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VUG US Equity,2022-05-08,SELL,领航成长型ETF,-2037,0,0,245.4,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VUSE US Equity,2022-05-08,SELL,Vident Core US Equity ETF,-11531,0,0,43.36,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VV US Equity,2022-05-08,BUY,领航大盘股ETF,2656,0,0,188.23,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VXF US Equity,2022-05-08,BUY,领航扩展市场ETF,3465,0,0,144.26,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VXX US Equity,2022-05-08,BUY,iPath Series B S&P 500 VIX S,18470,0,0,27.07,1.0,500000,0,0,Quant,Pattern 87,us_adr
+VXZ US Equity,2022-05-08,SELL,iPath Series B S&P 500 VIX M,-16716,0,0,29.91,1.0,500000,0,0,Quant,Pattern 87,us_adr
+WBND US Equity,2022-05-08,BUY,Western Asset Total Return E,23282,0,0,21.475,1.0,500000,0,0,Quant,Pattern 87,us_adr
+WIP US Equity,2022-05-08,SELL,SPDR富时国际政府抗通胀债券ET,-10382,0,0,48.16,1.0,500000,0,0,Quant,Pattern 87,us_adr
+WOOD US Equity,2022-05-08,SELL,iShares安硕木材与林业ETF,-5643,0,0,88.59,1.0,500000,0,0,Quant,Pattern 87,us_adr
+WPS US Equity,2022-05-08,BUY,安硕国际发达物业ETF,15764,0,0,31.7163,1.0,500000,0,0,Quant,Pattern 87,us_adr
