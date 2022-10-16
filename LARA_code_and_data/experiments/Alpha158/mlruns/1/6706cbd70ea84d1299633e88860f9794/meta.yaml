@@ -1,0 +1,15 @@
+artifact_uri: file:D:\IB project\LARA\LARA_code_and_data\experiments\Alpha158\mlruns/1/6706cbd70ea84d1299633e88860f9794/artifacts
+end_time: 1665921677048
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6706cbd70ea84d1299633e88860f9794
+run_uuid: 6706cbd70ea84d1299633e88860f9794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665921676621
+status: 4
+tags: []
+user_id: caifeng
